@@ -1,4 +1,5 @@
 const model = require('../models/Category');
+const logger = require('../log/winston');
 
 class VaccineController {
   async simpleCreate(req, res, next) {

@@ -1,5 +1,7 @@
+fs = require('fs');
 const model = require('../models/Vaccine');
 const Category = require('../models/Category');
+const logger = require('../log/winston');
 
 class VaccineController {
   async simpleCreate(req, res, next) {
@@ -15,6 +17,8 @@ class VaccineController {
   }
   async getBySellType(req, res, next) {
     try {
+      const startTime = new Date();
+      logger.info(`Get Vaccine by filter - Start Time: ${startTime}`);
       const hasType = !(
         req.query?.type != 'Package' && req.query?.type != 'Retail'
       );
@@ -50,6 +54,13 @@ class VaccineController {
             .in(listCategory)
         : await model.find({ vaccineName: { $regex: '.*' + search + '.*' } });
 
+      const endTime = new Date();
+      logger.info(`Get Vaccine by filter - End Time: ${endTime}`);
+      logger.info(
+        `Get Vaccine by filter - Time Binding: ${
+          endTime.getTime() - startTime.getTime()
+        }ms`,
+      );
       res.send({ total: result.length, entities: result });
     } catch (error) {
       res.send({
@@ -60,8 +71,16 @@ class VaccineController {
   }
   async getByById(req, res, next) {
     try {
+      const startTime = new Date();
+      logger.info(`Get Vaccine by Id - Start Time: ${startTime}`);
       const result = await model.findById(req.params.id);
       res.send(result);
+      logger.info(`Get Vaccine by Id - End Time: ${endTime}`);
+      logger.info(
+        `Get Vaccine by Id - Time Binding: ${
+          endTime.getTime() - startTime.getTime()
+        }ms`,
+      );
     } catch (error) {
       res.send({
         status: 500,
