@@ -15,7 +15,7 @@ const Customer = new Schema(
       type: String,
       default: "",
     },
-    indentity: {
+    identity: {
       type: String,
       default: "",
     },

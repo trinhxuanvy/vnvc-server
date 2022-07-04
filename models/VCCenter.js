@@ -1,12 +1,16 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
-const Category = new Schema(
+const VCCenter = new Schema(
   {
     name: {
       type: String,
       default: "",
     },
+    province: {
+        type: String,
+        default: "",
+      },
     District: {
         type: String,
         default: "",
@@ -23,8 +27,8 @@ const Category = new Schema(
   {
     timestamps: true,
     versionKey: false,
-    collection: "Category",
+    collection: "VCCenter",
   }
 );
 
-module.exports = mongoose.model("Category", Category);
+module.exports = mongoose.model("VCCenter", VCCenter);
