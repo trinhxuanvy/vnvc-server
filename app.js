@@ -1,6 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
+const cors = require("cors");
 const route = require("./routes");
 
 dotenv.config();
@@ -9,9 +10,10 @@ const server = express();
 
 server.use(express.urlencoded({ extended: true, limit: "50mb" }));
 server.use(express.json({ limit: "50mb" }));
+server.use(cors());
 route(server);
 
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 3000;
 
 mongoose
   .connect(process.env.CONNECT_DATABASE, {
