@@ -1,7 +1,7 @@
-const model = require("../models/Category");
-const logger = require("../log/winston");
+const model = require('../models/Category');
+const logger = require('../log/winston');
 
-class VaccineController {
+class CategoryController {
   async simpleCreate(req, res, next) {
     try {
       const result = await model.create(req.body);
@@ -50,4 +50,4 @@ class VaccineController {
   }
 }
 
-module.exports = new VaccineController();
+module.exports = new CategoryController();
