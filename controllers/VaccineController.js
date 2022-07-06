@@ -22,13 +22,14 @@ class VaccineController {
     try {
       const type = req.query?.type;
       const categoryId = req.query?.categoryId;
+      const search = req.query?.search;
       await resdisClient.connect();
       const startTimeRedis = new Date();
       logger.info(
         `Get Vaccine by filter redis - Start Time: ${startTimeRedis}`,
       );
       let result = await resdisClient.get(
-        `vaccines?type=${type}?categoryId=${categoryId}`,
+        `vaccines?type=${type}?categoryId=${categoryId}?search=${search}`,
       );
       const endTimeRedis = new Date();
       logger.info(`Get Vaccine by filter redis - End Time: ${endTimeRedis}`);
