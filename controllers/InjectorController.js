@@ -46,12 +46,11 @@ class InjectorController {
       }
 
       const cusFind = cus[0];
-      console.log(cusFind);
 
       const result = await model.find({ customerId: cusFind._id });
       if (result == null || result.length == 0) {
         res.send({
-          status: 200,
+          status: 404,
           message: 'Entity not found!',
         });
 
