@@ -55,7 +55,7 @@ class InjectorController {
       );
       if (redisResult) {
         await resdisClient.disconnect();
-        const response = JSON.parse(redisResult);
+        const response = JSON.parse(redisResult)[0];
         return res.send(response);
       } else {
         const startTime = new Date();
