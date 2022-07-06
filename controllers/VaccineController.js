@@ -1,12 +1,10 @@
-fs = require('fs');
-const model = require('../models/Vaccine');
-const Category = require('../models/Category');
-const logger = require('../log/winston');
-const Redis = require('redis');
+fs = require("fs");
+const model = require("../models/Vaccine");
+const Category = require("../models/Category");
+const logger = require("../log/winston");
+const Redis = require("redis");
 
-
-const resdisClient = Redis.createClient()
-
+const resdisClient = Redis.createClient();
 
 const DEFAULT_EXPIRATION = 3600;
 
@@ -25,76 +23,83 @@ class VaccineController {
   async getBySellType(req, res, next) {
     try {
       const type = req.query?.type;
-      const categoryId =  req.query?.categoryId;
+      const categoryId = req.query?.categoryId;
+      const search = req.query?.search;
       await resdisClient.connect();
       const startTimeRedis = new Date();
-      logger.info(`Get Vaccine by filter redis - Start Time: ${startTimeRedis}`);
-      let result =  await resdisClient.get(`vaccines?type=${type}?categoryId=${categoryId}`)
+      logger.info(
+        `Get Vaccine by filter redis - Start Time: ${startTimeRedis}`
+      );
+      let result = await resdisClient.get(
+        `vaccines?type=${type}?categoryId=${categoryId}?search=${search}`
+      );
       const endTimeRedis = new Date();
       logger.info(`Get Vaccine by filter redis - End Time: ${endTimeRedis}`);
       logger.info(
         `Get Vaccine by filter redis - Time Binding: ${
           endTimeRedis.getTime() - startTimeRedis.getTime()
-        }ms`,
+        }ms`
       );
       if (result) {
         await resdisClient.disconnect();
         const response = JSON.parse(result);
-        return res.send({total: response.length, entities: response})
-      }
-      else
-      {
-          const startTime = new Date();
-          logger.info(`Get Vaccine by filter - Start Time: ${startTime}`);
-          const hasType = !(
-            req.query?.type != 'Package' && req.query?.type != 'Retail'
-          );
-          const hasCategory =
-            req.query?.categoryId != '' && req.query?.categoryId != null;
-    
-          const listCategory = (
-            await Category.find({
-              $or: [
-                { parentId: req.query?.categoryId },
-                { _id: req.query?.categoryId },
-              ],
-            })
-          ).map((x) => x._id);
-          const search = req.query?.search || '';
-          const result = hasType
-            ? hasCategory
-              ? await model
-                  .find({
-                    sellType: req.query?.type,
-                    vaccineName: { $regex: '.*' + search + '.*' },
-                  })
-                  .where('categoryId')
-                  .in(listCategory)
-              : await model.find({
-                  sellType: req.query?.type,
-                  vaccineName: { $regex: '.*' + search + '.*' },
-                })
-            : hasCategory
+        return res.send({ total: response.length, entities: response });
+      } else {
+        const startTime = new Date();
+        logger.info(`Get Vaccine by filter - Start Time: ${startTime}`);
+        const hasType = !(
+          req.query?.type != "Package" && req.query?.type != "Retail"
+        );
+        const hasCategory =
+          req.query?.categoryId != "" && req.query?.categoryId != null;
+
+        const listCategory = (
+          await Category.find({
+            $or: [
+              { parentId: req.query?.categoryId },
+              { _id: req.query?.categoryId },
+            ],
+          })
+        ).map((x) => x._id);
+        const search = req.query?.search || "";
+        const result = hasType
+          ? hasCategory
             ? await model
-                .find({ vaccineName: { $regex: '.*' + search + '.*' } })
-                .where('categoryId')
+                .find({
+                  sellType: req.query?.type,
+                  vaccineName: { $regex: ".*" + search + ".*" },
+                })
+                .where("categoryId")
                 .in(listCategory)
-            : await model.find({ vaccineName: { $regex: '.*' + search + '.*' } });
-    
-          const endTime = new Date();
-          logger.info(`Get Vaccine by filter - End Time: ${endTime}`);
-          logger.info(
-            `Get Vaccine by filter - Time Binding: ${
-              endTime.getTime() - startTime.getTime()
-            }ms`,
-          );
-          await resdisClient.setEx(`vaccines?type=${type}?categoryId=${categoryId}`, DEFAULT_EXPIRATION, JSON.stringify(result));
-          await resdisClient.disconnect();
-          res.send({ total: result.length, entities: result });
+            : await model.find({
+                sellType: req.query?.type,
+                vaccineName: { $regex: ".*" + search + ".*" },
+              })
+          : hasCategory
+          ? await model
+              .find({ vaccineName: { $regex: ".*" + search + ".*" } })
+              .where("categoryId")
+              .in(listCategory)
+          : await model.find({ vaccineName: { $regex: ".*" + search + ".*" } });
+
+        const endTime = new Date();
+        logger.info(`Get Vaccine by filter - End Time: ${endTime}`);
+        logger.info(
+          `Get Vaccine by filter - Time Binding: ${
+            endTime.getTime() - startTime.getTime()
+          }ms`
+        );
+        await resdisClient.setEx(
+          `vaccines?type=${type}?categoryId=${categoryId}?search=${search}`,
+          DEFAULT_EXPIRATION,
+          JSON.stringify(result)
+        );
+        await resdisClient.disconnect();
+        res.send({ total: result.length, entities: result });
       }
     } catch (error) {
       await resdisClient.disconnect();
-      console.log(error)
+      console.log(error);
       res.send({
         status: 500,
         message: { err: error },
