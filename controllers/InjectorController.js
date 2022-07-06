@@ -1,4 +1,5 @@
 const model = require('../models/Injector');
+const Customer = require('../models/Customer');
 const logger = require('../log/winston');
 
 class InjectorController {
@@ -15,14 +16,50 @@ class InjectorController {
   }
   async getByCode(req, res, next) {
     try {
-      const result = await model.find({ code: req.params?.code });
+      const code = req.query?.code;
+      const relationship = req.query?.relationship;
+
+      if (
+        code == null ||
+        code == '' ||
+        relationship == null ||
+        relationship == ''
+      ) {
+        res.send({
+          status: 200,
+          message: 'code & relationship is require!',
+        });
+        return;
+      }
+
+      const cus = await Customer.find({
+        code: code,
+        relationship: relationship,
+      });
+      if (cus == null || cus.length == 0) {
+        res.send({
+          status: 200,
+          message: 'Entity not found!',
+        });
+
+        return;
+      }
+
+      const cusFind = cus[0];
+      console.log(cusFind);
+
+      const result = await model.find({ customerId: cusFind._id });
       if (result == null || result.length == 0) {
         res.send({
           status: 200,
           message: 'Entity not found!',
         });
+
+        return;
       } else {
         res.send(result[0]);
+
+        return;
       }
     } catch (error) {
       console.log(error);
