@@ -1,9 +1,36 @@
-[2022-07-06 20:36:38] [info] Get Injector by code & relationship redis - Start Time: Wed Jul 06 2022 20:36:38 GMT+0700 (Indochina Time)
-[2022-07-06 20:36:38] [info] Get Injector by code & relationship redis - End Time: Wed Jul 06 2022 20:36:38 GMT+0700 (Indochina Time)
-[2022-07-06 20:36:38] [info] Get Injector by code & relationship redis - Time Binding: 17ms
-[2022-07-06 20:36:38] [info] Get Injector by code & relationship - Start Time: Wed Jul 06 2022 20:36:38 GMT+0700 (Indochina Time)
-[2022-07-06 20:36:40] [info] Get Injector by code & relationship - End Time: Wed Jul 06 2022 20:36:40 GMT+0700 (Indochina Time)
-[2022-07-06 20:36:40] [info] Get Injector by code & relationship - Time Binding: 1974ms
-[2022-07-06 20:37:02] [info] Get Injector by code & relationship redis - Start Time: Wed Jul 06 2022 20:37:02 GMT+0700 (Indochina Time)
-[2022-07-06 20:37:02] [info] Get Injector by code & relationship redis - End Time: Wed Jul 06 2022 20:37:02 GMT+0700 (Indochina Time)
-[2022-07-06 20:37:02] [info] Get Injector by code & relationship redis - Time Binding: 49ms
+[2022-07-06 22:19:03] [info] Update Injector - Start Time: Wed Jul 06 2022 22:19:03 GMT+0700 (Indochina Time)
+[2022-07-06 22:19:04] [info] Update Injector - End Time: Wed Jul 06 2022 22:19:04 GMT+0700 (Indochina Time)
+[2022-07-06 22:19:04] [info] Update Injector - Time Binding: 308ms
+[2022-07-06 22:19:04] [info] Create or Update Injector redis - Start Time: Wed Jul 06 2022 22:19:04 GMT+0700 (Indochina Time)
+[2022-07-06 22:19:04] [info] Create or Update Injector redis - End Time: Wed Jul 06 2022 22:19:04 GMT+0700 (Indochina Time)
+[2022-07-06 22:19:04] [info] Create or Update Injector redis - Time Binding: 10ms
+[2022-07-06 22:20:06] [info] Create Injector - Start Time: Wed Jul 06 2022 22:20:06 GMT+0700 (Indochina Time)
+[2022-07-06 22:20:07] [info] Create Injector - End Time: Wed Jul 06 2022 22:20:07 GMT+0700 (Indochina Time)
+[2022-07-06 22:20:07] [info] Create Injector - Time Binding: 280ms
+[2022-07-06 22:20:07] [info] Create or Update Injector redis - Start Time: Wed Jul 06 2022 22:20:07 GMT+0700 (Indochina Time)
+[2022-07-06 22:20:07] [info] Create or Update Injector redis - End Time: Wed Jul 06 2022 22:20:07 GMT+0700 (Indochina Time)
+[2022-07-06 22:20:07] [info] Create or Update Injector redis - Time Binding: 9ms
+[2022-07-06 22:21:22] [error] TypeError: Assignment to constant variable.
+    at hasCustomerCreate (F:\QTCSDLHD\vnvc-server\controllers\InjectorController.js:245:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-06 22:23:32] [error] ReferenceError: Cannot access 'cus' before initialization
+    at hasCustomerCreate (F:\QTCSDLHD\vnvc-server\controllers\InjectorController.js:246:18)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-06 22:24:07] [info] Update Injector - Start Time: Wed Jul 06 2022 22:24:07 GMT+0700 (Indochina Time)
+[2022-07-06 22:24:07] [info] Update Injector - End Time: Wed Jul 06 2022 22:24:07 GMT+0700 (Indochina Time)
+[2022-07-06 22:24:07] [info] Update Injector - Time Binding: 278ms
+[2022-07-06 22:24:07] [info] Create or Update Injector redis - Start Time: Wed Jul 06 2022 22:24:07 GMT+0700 (Indochina Time)
+[2022-07-06 22:24:07] [info] Create or Update Injector redis - End Time: Wed Jul 06 2022 22:24:07 GMT+0700 (Indochina Time)
+[2022-07-06 22:24:07] [info] Create or Update Injector redis - Time Binding: 11ms
+[2022-07-06 22:24:20] [info] Update Injector - Start Time: Wed Jul 06 2022 22:24:20 GMT+0700 (Indochina Time)
+[2022-07-06 22:24:20] [info] Update Injector - End Time: Wed Jul 06 2022 22:24:20 GMT+0700 (Indochina Time)
+[2022-07-06 22:24:20] [info] Update Injector - Time Binding: 273ms
+[2022-07-06 22:24:20] [info] Create or Update Injector redis - Start Time: Wed Jul 06 2022 22:24:20 GMT+0700 (Indochina Time)
+[2022-07-06 22:24:20] [info] Create or Update Injector redis - End Time: Wed Jul 06 2022 22:24:20 GMT+0700 (Indochina Time)
+[2022-07-06 22:24:20] [info] Create or Update Injector redis - Time Binding: 6ms
+[2022-07-06 22:24:45] [info] Update Injector - Start Time: Wed Jul 06 2022 22:24:45 GMT+0700 (Indochina Time)
+[2022-07-06 22:24:45] [info] Update Injector - End Time: Wed Jul 06 2022 22:24:45 GMT+0700 (Indochina Time)
+[2022-07-06 22:24:45] [info] Update Injector - Time Binding: 281ms
+[2022-07-06 22:24:45] [info] Create or Update Injector redis - Start Time: Wed Jul 06 2022 22:24:45 GMT+0700 (Indochina Time)
+[2022-07-06 22:24:45] [info] Create or Update Injector redis - End Time: Wed Jul 06 2022 22:24:45 GMT+0700 (Indochina Time)
+[2022-07-06 22:24:45] [info] Create or Update Injector redis - Time Binding: 7ms

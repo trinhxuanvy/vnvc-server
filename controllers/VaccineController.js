@@ -108,13 +108,14 @@ class VaccineController {
       const startTime = new Date();
       logger.info(`Get Vaccine by Id - Start Time: ${startTime}`);
       const result = await model.findById(req.params.id);
-      res.send(result);
+      const endTime = new Date();
       logger.info(`Get Vaccine by Id - End Time: ${endTime}`);
       logger.info(
         `Get Vaccine by Id - Time Binding: ${
           endTime.getTime() - startTime.getTime()
         }ms`,
       );
+      res.send(result);
     } catch (error) {
       res.send({
         status: 500,

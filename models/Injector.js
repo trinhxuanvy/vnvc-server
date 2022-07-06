@@ -38,7 +38,6 @@ const Injector = new Schema(
     customerId: {
       type: Schema.Types.ObjectId,
       ref: 'Customer',
-      required: true,
     },
     relationship: {
       type: String,
