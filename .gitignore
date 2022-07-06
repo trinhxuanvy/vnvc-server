@@ -5,3 +5,4 @@
 .env
 
 /yarn.lock
+/log/vnvc.log
