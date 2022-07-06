@@ -1,7 +1,7 @@
-const model = require('../models/Injector');
+const model = require('../models/Customer');
 const logger = require('../log/winston');
 
-class InjectorController {
+class CustomerController {
   async simpleCreate(req, res, next) {
     try {
       const result = await model.create(req.body);
@@ -32,9 +32,9 @@ class InjectorController {
       });
     }
   }
-  async getByCustomerId(req, res, next) {
+  async getById(req, res, next) {
     try {
-      const result = await model.find({ customerId: req.params?.id });
+      const result = await model.find({ code: req.params?.id });
       if (result == null || result.length == 0) {
         res.send({
           status: 200,
@@ -53,4 +53,4 @@ class InjectorController {
   }
 }
 
-module.exports = new InjectorController();
+module.exports = new CustomerController();

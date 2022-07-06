@@ -4,5 +4,6 @@ const InjectorController = require('../controllers/InjectorController');
 
 router.post('/injector', InjectorController.simpleCreate);
 router.get('/injector/code/:code', InjectorController.getByCode);
+router.get('/injector/customer/:id', InjectorController.getByCustomerId);
 
 module.exports = router;

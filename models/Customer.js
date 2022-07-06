@@ -1,46 +1,50 @@
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const Customer = new Schema(
   {
     name: {
       type: String,
-      default: "",
+      default: '',
     },
     phone: {
       type: String,
-      default: "",
+      default: '',
     },
     email: {
       type: String,
-      default: "",
+      default: '',
     },
     identity: {
       type: String,
-      default: "",
+      default: '',
     },
     province: {
       type: String,
-      default: "",
+      default: '',
     },
     district: {
       type: String,
-      default: "",
+      default: '',
     },
     commute: {
       type: String,
-      default: "",
+      default: '',
     },
     address: {
       type: String,
-      default: "",
+      default: '',
+    },
+    code: {
+      type: String,
+      default: '',
     },
   },
   {
     timestamps: true,
     versionKey: false,
-    collection: "Customer",
-  }
+    collection: 'Customer',
+  },
 );
 
-module.exports = mongoose.model("Customer", Customer);
+module.exports = mongoose.model('Customer', Customer);
