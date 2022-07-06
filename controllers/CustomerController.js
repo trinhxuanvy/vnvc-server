@@ -18,7 +18,7 @@ class CustomerController {
       const result = await model.find({ code: req.params?.code });
       if (result == null || result.length == 0) {
         res.send({
-          status: 200,
+          status: 404,
           message: 'Entity not found!',
         });
       } else {
@@ -37,7 +37,7 @@ class CustomerController {
       const result = await model.find({ code: req.params?.id });
       if (result == null || result.length == 0) {
         res.send({
-          status: 200,
+          status: 404,
           message: 'Entity not found!',
         });
       } else {

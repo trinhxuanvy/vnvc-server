@@ -26,7 +26,7 @@ class InjectorController {
         relationship == ''
       ) {
         res.send({
-          status: 200,
+          status: 400,
           message: 'code & relationship is require!',
         });
         return;
@@ -38,7 +38,7 @@ class InjectorController {
       });
       if (cus == null || cus.length == 0) {
         res.send({
-          status: 200,
+          status: 404,
           message: 'Entity not found!',
         });
 
