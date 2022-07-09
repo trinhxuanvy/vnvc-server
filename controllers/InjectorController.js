@@ -1,7 +1,8 @@
-const model = require('../models/Injector');
-const Customer = require('../models/Customer');
-const logger = require('../log/winston');
-const Redis = require('redis');
+const model = require("../models/Injector");
+const Customer = require("../models/Customer");
+const logger = require("../log/winston");
+const Redis = require("redis");
+const randomstring = require("randomstring");
 
 const resdisClient = Redis.createClient();
 const DEFAULT_EXPIRATION = 3600;
@@ -9,7 +10,12 @@ const DEFAULT_EXPIRATION = 3600;
 class InjectorController {
   async simpleCreate(req, res, next) {
     try {
-      const result = await model.create(req.body);
+      const code = randomstring.generate({
+        length: 10,
+        charset: "alphanumeric",
+        capitalization: "lowercase",
+      });
+      const result = await model.create({ ...req.body, code });
       res.send(result);
     } catch (error) {
       res.send({
@@ -21,17 +27,11 @@ class InjectorController {
   async getByCode(req, res, next) {
     try {
       const code = req.query?.code;
-      const relationship = req.query?.relationship;
 
-      if (
-        code == null ||
-        code == '' ||
-        relationship == null ||
-        relationship == ''
-      ) {
+      if (code == null || code == "") {
         res.send({
           status: 400,
-          message: 'code & relationship is require!',
+          message: "code is require!",
         });
         return;
       }
@@ -39,19 +39,19 @@ class InjectorController {
       await resdisClient.connect();
       const startTimeRedis = new Date();
       logger.info(
-        `Get Injector by code & relationship redis - Start Time: ${startTimeRedis}`,
+        `Get Injector by code & relationship redis - Start Time: ${startTimeRedis}`
       );
       let redisResult = await resdisClient.get(
-        `injector/customer/code?code=${code}&relationship=${relationship}`,
+        `injector/customer/code?code=${code}`
       );
       const endTimeRedis = new Date();
       logger.info(
-        `Get Injector by code & relationship redis - End Time: ${endTimeRedis}`,
+        `Get Injector by code & relationship redis - End Time: ${endTimeRedis}`
       );
       logger.info(
         `Get Injector by code & relationship redis - Time Binding: ${
           endTimeRedis.getTime() - startTimeRedis.getTime()
-        }ms`,
+        }ms`
       );
       if (redisResult) {
         await resdisClient.disconnect();
@@ -59,50 +59,29 @@ class InjectorController {
         return res.send(response);
       } else {
         const startTime = new Date();
-        logger.info(
-          `Get Injector by code & relationship - Start Time: ${startTime}`,
-        );
-
-        const cus = await Customer.find({
-          code: code,
-        });
-
-        if (cus == null || cus.length == 0) {
-          logger.error(
-            `Get Injector by code & relationship: Entity not found!`,
-          );
-          res.send({
-            status: 404,
-            message: 'Entity not found!',
-          });
-
-          return;
-        }
-
-        const cusFind = cus[0];
+        logger.info(`Get Injector by code - Start Time: ${startTime}`);
 
         const result = await model.find({
-          customerId: cusFind._id,
-          relationship: relationship,
+          code,
         });
 
         const endTime = new Date();
         logger.info(
-          `Get Injector by code & relationship - End Time: ${endTime}`,
+          `Get Injector by code & relationship - End Time: ${endTime}`
         );
         logger.info(
           `Get Injector by code & relationship - Time Binding: ${
             endTime.getTime() - startTime.getTime()
-          }ms`,
+          }ms`
         );
 
         if (result == null || result.length == 0) {
           logger.error(
-            `Get Injector by code & relationship: Entity not found!`,
+            `Get Injector by code & relationship: Entity not found!`
           );
           res.send({
             status: 404,
-            message: 'Entity not found!',
+            message: "Entity not found!",
           });
 
           return;
@@ -110,7 +89,7 @@ class InjectorController {
           await resdisClient.setEx(
             `injector/customer/code?code=${code}&relationship=${relationship}`,
             DEFAULT_EXPIRATION,
-            JSON.stringify(result),
+            JSON.stringify(result)
           );
           await resdisClient.disconnect();
           res.send(result[0]);
@@ -136,7 +115,7 @@ class InjectorController {
       if (result == null || result.length == 0) {
         res.send({
           status: 200,
-          message: 'Entity not found!',
+          message: "Entity not found!",
         });
       } else {
         res.send(result[0]);
@@ -153,16 +132,16 @@ class InjectorController {
     const code = req.body?.code;
     const relationship = req.body?.relationship;
 
-    if (relationship == null || relationship == '') {
+    if (relationship == null || relationship == "") {
       res.send({
         status: 400,
-        message: 'relationship is require!',
+        message: "relationship is require!",
       });
       return;
     }
 
-    if (relationship == 'BANTHAN') {
-      if (code == null || code == '') {
+    if (relationship == "BANTHAN") {
+      if (code == null || code == "") {
         try {
           const hasCode = await Customer.findOne({
             $or: [{ code: req.body?.phone }, { phone: req.body?.phone }],
@@ -186,7 +165,7 @@ class InjectorController {
             logger.info(
               `Create Injector - Time Binding: ${
                 endTime.getTime() - startTime.getTime()
-              }ms`,
+              }ms`
             );
 
             try {
@@ -196,21 +175,21 @@ class InjectorController {
             }
             const startTimeRedis = new Date();
             logger.info(
-              `Create or Update Injector redis - Start Time: ${startTimeRedis}`,
+              `Create or Update Injector redis - Start Time: ${startTimeRedis}`
             );
             await resdisClient.setEx(
               `injector/customer/code?code=${cusCreate.code}&relationship=${relationship}`,
               DEFAULT_EXPIRATION,
-              JSON.stringify(inj),
+              JSON.stringify(inj)
             );
             const endTimeRedis = new Date();
             logger.info(
-              `Create or Update Injector redis - End Time: ${endTimeRedis}`,
+              `Create or Update Injector redis - End Time: ${endTimeRedis}`
             );
             logger.info(
               `Create or Update Injector redis - Time Binding: ${
                 endTimeRedis.getTime() - startTimeRedis.getTime()
-              }ms`,
+              }ms`
             );
             await resdisClient.disconnect();
 
@@ -218,7 +197,7 @@ class InjectorController {
           } else {
             res.send({
               status: 409,
-              message: 'Phone Conflict!',
+              message: "Phone Conflict!",
             });
             return;
           }
@@ -232,14 +211,14 @@ class InjectorController {
           if (cus == null) {
             res.send({
               status: 404,
-              message: 'Customer not found!',
+              message: "Customer not found!",
             });
             return;
           }
 
           const updateCus = await Customer.findOneAndUpdate(
             { _id: cus._id },
-            { ...req.body, identity: cus.identity },
+            { ...req.body, identity: cus.identity }
           );
 
           cus = await Customer.findOne({
@@ -264,7 +243,7 @@ class InjectorController {
             logger.info(
               `Create Injector - Time Binding: ${
                 endTime.getTime() - startTime.getTime()
-              }ms`,
+              }ms`
             );
           } else {
             const startTime = new Date();
@@ -272,7 +251,7 @@ class InjectorController {
 
             result = await model.findOneAndUpdate(
               { _id: hasInj._id },
-              { ...req.body, customerId: cus._id },
+              { ...req.body, customerId: cus._id }
             );
 
             const endTime = new Date();
@@ -280,7 +259,7 @@ class InjectorController {
             logger.info(
               `Update Injector - Time Binding: ${
                 endTime.getTime() - startTime.getTime()
-              }ms`,
+              }ms`
             );
 
             result = await model.findOne({ _id: hasInj._id });
@@ -293,21 +272,21 @@ class InjectorController {
           }
           const startTimeRedis = new Date();
           logger.info(
-            `Create or Update Injector redis - Start Time: ${startTimeRedis}`,
+            `Create or Update Injector redis - Start Time: ${startTimeRedis}`
           );
           await resdisClient.setEx(
             `injector/customer/code?code=${code}&relationship=${relationship}`,
             DEFAULT_EXPIRATION,
-            JSON.stringify(result),
+            JSON.stringify(result)
           );
           const endTimeRedis = new Date();
           logger.info(
-            `Create or Update Injector redis - End Time: ${endTimeRedis}`,
+            `Create or Update Injector redis - End Time: ${endTimeRedis}`
           );
           logger.info(
             `Create or Update Injector redis - Time Binding: ${
               endTimeRedis.getTime() - startTimeRedis.getTime()
-            }ms`,
+            }ms`
           );
           await resdisClient.disconnect();
           res.send(result);
@@ -323,10 +302,10 @@ class InjectorController {
         }
       }
     } else {
-      if (code == null || code == '') {
+      if (code == null || code == "") {
         res.send({
           status: 400,
-          message: 'code is require!',
+          message: "code is require!",
         });
         return;
       }
@@ -335,7 +314,7 @@ class InjectorController {
         if (cus == null) {
           res.send({
             status: 404,
-            message: 'Customer not found!',
+            message: "Customer not found!",
           });
           return;
         }
@@ -357,7 +336,7 @@ class InjectorController {
           logger.info(
             `Create Injector - Time Binding: ${
               endTime.getTime() - startTime.getTime()
-            }ms`,
+            }ms`
           );
         } else {
           const startTime = new Date();
@@ -365,7 +344,7 @@ class InjectorController {
 
           result = await model.findOneAndUpdate(
             { _id: hasInj._id },
-            { ...req.body, customerId: cus._id },
+            { ...req.body, customerId: cus._id }
           );
 
           const endTime = new Date();
@@ -373,7 +352,7 @@ class InjectorController {
           logger.info(
             `Update Injector - Time Binding: ${
               endTime.getTime() - startTime.getTime()
-            }ms`,
+            }ms`
           );
 
           result = await model.findOne({ _id: hasInj._id });
@@ -385,21 +364,21 @@ class InjectorController {
         }
         const startTimeRedis = new Date();
         logger.info(
-          `Create or Update Injector redis - Start Time: ${startTimeRedis}`,
+          `Create or Update Injector redis - Start Time: ${startTimeRedis}`
         );
         await resdisClient.setEx(
           `injector/customer/code?code=${code}&relationship=${relationship}`,
           DEFAULT_EXPIRATION,
-          JSON.stringify(result),
+          JSON.stringify(result)
         );
         const endTimeRedis = new Date();
         logger.info(
-          `Create or Update Injector redis - End Time: ${endTimeRedis}`,
+          `Create or Update Injector redis - End Time: ${endTimeRedis}`
         );
         logger.info(
           `Create or Update Injector redis - Time Binding: ${
             endTimeRedis.getTime() - startTimeRedis.getTime()
-          }ms`,
+          }ms`
         );
         await resdisClient.disconnect();
         res.send(result);

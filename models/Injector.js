@@ -1,11 +1,11 @@
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 const Injector = new Schema(
   {
     name: {
       type: String,
-      default: '',
+      default: "",
     },
     dateOfBirth: {
       type: Date,
@@ -13,42 +13,46 @@ const Injector = new Schema(
     },
     phone: {
       type: String,
-      default: '',
+      default: "",
     },
     gender: {
       type: String,
-      default: '',
+      default: "",
     },
     province: {
       type: String,
-      default: '',
+      default: "",
     },
     district: {
       type: String,
-      default: '',
+      default: "",
     },
     commute: {
       type: String,
-      default: '',
+      default: "",
     },
     address: {
       type: String,
-      default: '',
+      default: "",
     },
     customerId: {
       type: Schema.Types.ObjectId,
-      ref: 'Customer',
+      ref: "Customer",
     },
     relationship: {
       type: String,
-      default: '',
+      default: "",
+    },
+    code: {
+      type: String,
+      default: "",
     },
   },
   {
     timestamps: true,
     versionKey: false,
-    collection: 'Injector',
-  },
+    collection: "Injector",
+  }
 );
 
-module.exports = mongoose.model('Injector', Injector);
+module.exports = mongoose.model("Injector", Injector);

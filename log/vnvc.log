@@ -1,22 +1,1123 @@
-[2022-07-07 00:25:21] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:25:21 GMT+0700 (Indochina Time)
-[2022-07-07 00:25:21] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:25:21 GMT+0700 (Indochina Time)
-[2022-07-07 00:25:21] [info] Get Injector by code & relationship redis - Time Binding: 16ms
-[2022-07-07 00:25:21] [info] Get Injector by code & relationship - Start Time: Thu Jul 07 2022 00:25:21 GMT+0700 (Indochina Time)
-[2022-07-07 00:25:22] [info] Get Injector by code & relationship - End Time: Thu Jul 07 2022 00:25:22 GMT+0700 (Indochina Time)
-[2022-07-07 00:25:22] [info] Get Injector by code & relationship - Time Binding: 616ms
-[2022-07-07 00:25:22] [error] Get Injector by code & relationship: Entity not found!
-[2022-07-07 00:26:29] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:26:29 GMT+0700 (Indochina Time)
-[2022-07-07 00:26:29] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:26:29 GMT+0700 (Indochina Time)
-[2022-07-07 00:26:29] [info] Get Injector by code & relationship redis - Time Binding: 7ms
-[2022-07-07 00:26:29] [info] Get Injector by code & relationship - Start Time: Thu Jul 07 2022 00:26:29 GMT+0700 (Indochina Time)
-[2022-07-07 00:26:29] [info] Get Injector by code & relationship - End Time: Thu Jul 07 2022 00:26:29 GMT+0700 (Indochina Time)
-[2022-07-07 00:26:29] [info] Get Injector by code & relationship - Time Binding: 557ms
-[2022-07-07 00:26:40] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:26:40 GMT+0700 (Indochina Time)
-[2022-07-07 00:26:40] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:26:40 GMT+0700 (Indochina Time)
-[2022-07-07 00:26:40] [info] Get Injector by code & relationship redis - Time Binding: 6ms
-[2022-07-07 00:27:21] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:27:21 GMT+0700 (Indochina Time)
-[2022-07-07 00:27:21] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:27:21 GMT+0700 (Indochina Time)
-[2022-07-07 00:27:21] [info] Get Injector by code & relationship redis - Time Binding: 19ms
-[2022-07-07 00:27:28] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:27:28 GMT+0700 (Indochina Time)
-[2022-07-07 00:27:28] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:27:28 GMT+0700 (Indochina Time)
-[2022-07-07 00:27:28] [info] Get Injector by code & relationship redis - Time Binding: 5ms
+[2022-07-07 00:30:11] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:30:11 GMT+0700 (Indochina Time)
+[2022-07-07 00:30:11] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:30:11 GMT+0700 (Indochina Time)
+[2022-07-07 00:30:11] [info] Get Vaccine by filter redis - Time Binding: 89ms
+[2022-07-07 00:30:11] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:30:11 GMT+0700 (Indochina Time)
+[2022-07-07 00:30:13] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:30:13 GMT+0700 (Indochina Time)
+[2022-07-07 00:30:13] [info] Get Vaccine by filter - Time Binding: 2091ms
+[2022-07-07 00:30:30] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:30:30 GMT+0700 (Indochina Time)
+[2022-07-07 00:30:30] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:30:30 GMT+0700 (Indochina Time)
+[2022-07-07 00:30:30] [info] Get Injector by code & relationship redis - Time Binding: 8ms
+[2022-07-07 00:31:12] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:31:12 GMT+0700 (Indochina Time)
+[2022-07-07 00:31:12] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:31:12 GMT+0700 (Indochina Time)
+[2022-07-07 00:31:12] [info] Get Injector by code & relationship redis - Time Binding: 11ms
+[2022-07-07 00:32:21] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:32:21 GMT+0700 (Indochina Time)
+[2022-07-07 00:32:21] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:32:21 GMT+0700 (Indochina Time)
+[2022-07-07 00:32:21] [info] Get Vaccine by filter redis - Time Binding: 20ms
+[2022-07-07 00:32:21] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:32:21 GMT+0700 (Indochina Time)
+[2022-07-07 00:32:23] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:32:23 GMT+0700 (Indochina Time)
+[2022-07-07 00:32:23] [info] Get Vaccine by filter - Time Binding: 1572ms
+[2022-07-07 00:32:34] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:32:34 GMT+0700 (Indochina Time)
+[2022-07-07 00:32:34] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:32:34 GMT+0700 (Indochina Time)
+[2022-07-07 00:32:34] [info] Get Injector by code & relationship redis - Time Binding: 6ms
+[2022-07-07 00:33:35] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:33:35 GMT+0700 (Indochina Time)
+[2022-07-07 00:33:35] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:33:35 GMT+0700 (Indochina Time)
+[2022-07-07 00:33:35] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 00:33:35] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:33:35 GMT+0700 (Indochina Time)
+[2022-07-07 00:33:37] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:33:37 GMT+0700 (Indochina Time)
+[2022-07-07 00:33:37] [info] Get Vaccine by filter - Time Binding: 1565ms
+[2022-07-07 00:33:52] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:33:52 GMT+0700 (Indochina Time)
+[2022-07-07 00:33:52] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:33:52 GMT+0700 (Indochina Time)
+[2022-07-07 00:33:52] [info] Get Injector by code & relationship redis - Time Binding: 4ms
+[2022-07-07 00:35:17] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:35:17 GMT+0700 (Indochina Time)
+[2022-07-07 00:35:18] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:35:18 GMT+0700 (Indochina Time)
+[2022-07-07 00:35:18] [info] Get Vaccine by filter redis - Time Binding: 716ms
+[2022-07-07 00:35:18] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:35:18 GMT+0700 (Indochina Time)
+[2022-07-07 00:35:20] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:35:20 GMT+0700 (Indochina Time)
+[2022-07-07 00:35:20] [info] Get Vaccine by filter - Time Binding: 1571ms
+[2022-07-07 00:35:28] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:35:28 GMT+0700 (Indochina Time)
+[2022-07-07 00:35:28] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:35:28 GMT+0700 (Indochina Time)
+[2022-07-07 00:35:28] [info] Get Injector by code & relationship redis - Time Binding: 11ms
+[2022-07-07 00:37:37] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:37:37 GMT+0700 (Indochina Time)
+[2022-07-07 00:37:37] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:37:37 GMT+0700 (Indochina Time)
+[2022-07-07 00:37:37] [info] Get Vaccine by filter redis - Time Binding: 39ms
+[2022-07-07 00:37:37] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:37:37 GMT+0700 (Indochina Time)
+[2022-07-07 00:37:39] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:37:39 GMT+0700 (Indochina Time)
+[2022-07-07 00:37:39] [info] Get Vaccine by filter - Time Binding: 2057ms
+[2022-07-07 00:37:50] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:37:50 GMT+0700 (Indochina Time)
+[2022-07-07 00:37:50] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:37:50 GMT+0700 (Indochina Time)
+[2022-07-07 00:37:50] [info] Get Injector by code & relationship redis - Time Binding: 5ms
+[2022-07-07 00:41:32] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:41:32 GMT+0700 (Indochina Time)
+[2022-07-07 00:41:32] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:41:32 GMT+0700 (Indochina Time)
+[2022-07-07 00:41:32] [info] Get Vaccine by filter redis - Time Binding: 3ms
+[2022-07-07 00:41:32] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:41:32 GMT+0700 (Indochina Time)
+[2022-07-07 00:41:34] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:41:34 GMT+0700 (Indochina Time)
+[2022-07-07 00:41:34] [info] Get Vaccine by filter - Time Binding: 2075ms
+[2022-07-07 00:41:47] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:41:47 GMT+0700 (Indochina Time)
+[2022-07-07 00:41:47] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:41:47 GMT+0700 (Indochina Time)
+[2022-07-07 00:41:47] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 00:41:47] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:41:47 GMT+0700 (Indochina Time)
+[2022-07-07 00:41:49] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:41:49 GMT+0700 (Indochina Time)
+[2022-07-07 00:41:49] [info] Get Vaccine by filter - Time Binding: 1562ms
+[2022-07-07 00:43:13] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:43:13 GMT+0700 (Indochina Time)
+[2022-07-07 00:43:13] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:43:13 GMT+0700 (Indochina Time)
+[2022-07-07 00:43:13] [info] Get Vaccine by filter redis - Time Binding: 9ms
+[2022-07-07 00:43:13] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:43:13 GMT+0700 (Indochina Time)
+[2022-07-07 00:43:15] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:43:15 GMT+0700 (Indochina Time)
+[2022-07-07 00:43:15] [info] Get Vaccine by filter - Time Binding: 2051ms
+[2022-07-07 00:43:24] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:43:24 GMT+0700 (Indochina Time)
+[2022-07-07 00:43:24] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:43:24 GMT+0700 (Indochina Time)
+[2022-07-07 00:43:24] [info] Get Injector by code & relationship redis - Time Binding: 6ms
+[2022-07-07 00:44:28] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:44:28 GMT+0700 (Indochina Time)
+[2022-07-07 00:44:28] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:44:28 GMT+0700 (Indochina Time)
+[2022-07-07 00:44:28] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 00:44:28] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:44:28 GMT+0700 (Indochina Time)
+[2022-07-07 00:44:30] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:44:30 GMT+0700 (Indochina Time)
+[2022-07-07 00:44:30] [info] Get Vaccine by filter - Time Binding: 1553ms
+[2022-07-07 00:45:03] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:45:03 GMT+0700 (Indochina Time)
+[2022-07-07 00:45:03] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:45:03 GMT+0700 (Indochina Time)
+[2022-07-07 00:45:03] [info] Get Vaccine by filter redis - Time Binding: 8ms
+[2022-07-07 00:45:03] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:45:03 GMT+0700 (Indochina Time)
+[2022-07-07 00:45:06] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:45:06 GMT+0700 (Indochina Time)
+[2022-07-07 00:45:06] [info] Get Vaccine by filter - Time Binding: 2286ms
+[2022-07-07 00:45:17] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:45:17 GMT+0700 (Indochina Time)
+[2022-07-07 00:45:17] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:45:17 GMT+0700 (Indochina Time)
+[2022-07-07 00:45:17] [info] Get Injector by code & relationship redis - Time Binding: 6ms
+[2022-07-07 00:46:45] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:46:45 GMT+0700 (Indochina Time)
+[2022-07-07 00:46:45] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:46:45 GMT+0700 (Indochina Time)
+[2022-07-07 00:46:45] [info] Get Vaccine by filter redis - Time Binding: 15ms
+[2022-07-07 00:46:45] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:46:45 GMT+0700 (Indochina Time)
+[2022-07-07 00:46:47] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:46:47 GMT+0700 (Indochina Time)
+[2022-07-07 00:46:47] [info] Get Vaccine by filter - Time Binding: 1554ms
+[2022-07-07 00:46:59] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:46:59 GMT+0700 (Indochina Time)
+[2022-07-07 00:46:59] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:46:59 GMT+0700 (Indochina Time)
+[2022-07-07 00:46:59] [info] Get Injector by code & relationship redis - Time Binding: 9ms
+[2022-07-07 00:48:19] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:48:19 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:19] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:48:19 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:19] [info] Get Vaccine by filter redis - Time Binding: 239ms
+[2022-07-07 00:48:19] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:48:19 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:21] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:48:21 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:21] [info] Get Vaccine by filter - Time Binding: 2058ms
+[2022-07-07 00:48:36] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:48:36 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:37] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:48:37 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:37] [info] Get Vaccine by filter redis - Time Binding: 246ms
+[2022-07-07 00:48:37] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:48:37 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:39] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:48:39 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:39] [info] Get Vaccine by filter - Time Binding: 2051ms
+[2022-07-07 00:48:39] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:48:39 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:39] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:48:39 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:39] [info] Get Vaccine by filter redis - Time Binding: 18ms
+[2022-07-07 00:48:39] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:48:39 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:40] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:48:40 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:40] [info] Get Vaccine by filter - Time Binding: 1559ms
+[2022-07-07 00:48:59] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:48:59 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:59] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:48:59 GMT+0700 (Indochina Time)
+[2022-07-07 00:48:59] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 00:48:59] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:48:59 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:01] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:49:01 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:01] [info] Get Vaccine by filter - Time Binding: 1579ms
+[2022-07-07 00:49:15] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:49:15 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:15] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:49:15 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:15] [info] Get Injector by code & relationship redis - Time Binding: 7ms
+[2022-07-07 00:49:15] [info] Get Injector by code & relationship - Start Time: Thu Jul 07 2022 00:49:15 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:15] [info] Get Injector by code & relationship - End Time: Thu Jul 07 2022 00:49:15 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:15] [info] Get Injector by code & relationship - Time Binding: 519ms
+[2022-07-07 00:49:22] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:49:22 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:22] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:49:22 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:22] [info] Get Injector by code & relationship redis - Time Binding: 8ms
+[2022-07-07 00:49:25] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:49:25 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:25] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:49:25 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:25] [info] Get Injector by code & relationship redis - Time Binding: 7ms
+[2022-07-07 00:49:25] [info] Get Injector by code & relationship - Start Time: Thu Jul 07 2022 00:49:25 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:25] [info] Get Injector by code & relationship - End Time: Thu Jul 07 2022 00:49:25 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:25] [info] Get Injector by code & relationship - Time Binding: 506ms
+[2022-07-07 00:49:53] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:49:53 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:53] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:49:53 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:53] [info] Get Vaccine by filter redis - Time Binding: 14ms
+[2022-07-07 00:49:53] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:49:53 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:55] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:49:55 GMT+0700 (Indochina Time)
+[2022-07-07 00:49:55] [info] Get Vaccine by filter - Time Binding: 2018ms
+[2022-07-07 00:51:55] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:51:55 GMT+0700 (Indochina Time)
+[2022-07-07 00:51:55] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:51:55 GMT+0700 (Indochina Time)
+[2022-07-07 00:51:55] [info] Get Vaccine by filter redis - Time Binding: 97ms
+[2022-07-07 00:51:55] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:51:55 GMT+0700 (Indochina Time)
+[2022-07-07 00:51:56] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:51:56 GMT+0700 (Indochina Time)
+[2022-07-07 00:51:56] [info] Get Vaccine by filter - Time Binding: 1581ms
+[2022-07-07 00:52:08] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:52:08 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:08] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:52:08 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:08] [info] Get Vaccine by filter redis - Time Binding: 18ms
+[2022-07-07 00:52:08] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:52:08 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:10] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:52:10 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:10] [info] Get Vaccine by filter - Time Binding: 1815ms
+[2022-07-07 00:52:13] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:52:13 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:13] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:52:13 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:13] [info] Get Vaccine by filter redis - Time Binding: 8ms
+[2022-07-07 00:52:13] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:52:13 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:15] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:52:15 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:15] [info] Get Vaccine by filter - Time Binding: 1574ms
+[2022-07-07 00:52:25] [info] Get Injector by code & relationship redis - Start Time: Thu Jul 07 2022 00:52:25 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:25] [info] Get Injector by code & relationship redis - End Time: Thu Jul 07 2022 00:52:25 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:25] [info] Get Injector by code & relationship redis - Time Binding: 4ms
+[2022-07-07 00:52:39] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 00:52:39 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:39] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 00:52:39 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:39] [info] Get Vaccine by filter redis - Time Binding: 10ms
+[2022-07-07 00:52:39] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 00:52:39 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:41] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 00:52:41 GMT+0700 (Indochina Time)
+[2022-07-07 00:52:41] [info] Get Vaccine by filter - Time Binding: 1792ms
+[2022-07-07 21:41:06] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 21:41:06 GMT+0700 (Indochina Time)
+[2022-07-07 21:41:06] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 21:41:06 GMT+0700 (Indochina Time)
+[2022-07-07 21:41:06] [info] Get Vaccine by filter redis - Time Binding: 23ms
+[2022-07-07 21:41:06] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 21:41:06 GMT+0700 (Indochina Time)
+[2022-07-07 21:41:13] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 21:41:13 GMT+0700 (Indochina Time)
+[2022-07-07 21:41:13] [info] Get Vaccine by filter - Time Binding: 7125ms
+[2022-07-07 21:41:14] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 21:41:14 GMT+0700 (Indochina Time)
+[2022-07-07 21:41:14] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 21:41:14 GMT+0700 (Indochina Time)
+[2022-07-07 21:41:14] [info] Get Vaccine by filter redis - Time Binding: 37ms
+[2022-07-07 21:41:14] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 21:41:14 GMT+0700 (Indochina Time)
+[2022-07-07 21:41:16] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 21:41:16 GMT+0700 (Indochina Time)
+[2022-07-07 21:41:16] [info] Get Vaccine by filter - Time Binding: 1995ms
+[2022-07-07 21:44:59] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 21:44:59 GMT+0700 (Indochina Time)
+[2022-07-07 21:44:59] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 21:44:59 GMT+0700 (Indochina Time)
+[2022-07-07 21:44:59] [info] Get Vaccine by filter redis - Time Binding: 412ms
+[2022-07-07 21:44:59] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 21:44:59 GMT+0700 (Indochina Time)
+[2022-07-07 21:45:01] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 21:45:01 GMT+0700 (Indochina Time)
+[2022-07-07 21:45:01] [info] Get Vaccine by filter - Time Binding: 1973ms
+[2022-07-07 21:52:21] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 21:52:21 GMT+0700 (Indochina Time)
+[2022-07-07 21:52:21] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 21:52:21 GMT+0700 (Indochina Time)
+[2022-07-07 21:52:21] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 21:52:21] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 21:52:21 GMT+0700 (Indochina Time)
+[2022-07-07 21:52:23] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 21:52:23 GMT+0700 (Indochina Time)
+[2022-07-07 21:52:23] [info] Get Vaccine by filter - Time Binding: 2281ms
+[2022-07-07 21:52:41] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 21:52:41 GMT+0700 (Indochina Time)
+[2022-07-07 21:52:41] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 21:52:41 GMT+0700 (Indochina Time)
+[2022-07-07 21:52:41] [info] Get Vaccine by filter redis - Time Binding: 8ms
+[2022-07-07 21:52:41] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 21:52:41 GMT+0700 (Indochina Time)
+[2022-07-07 21:52:43] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 21:52:43 GMT+0700 (Indochina Time)
+[2022-07-07 21:52:43] [info] Get Vaccine by filter - Time Binding: 2041ms
+[2022-07-07 21:52:57] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 21:52:57 GMT+0700 (Indochina Time)
+[2022-07-07 21:52:57] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 21:52:57 GMT+0700 (Indochina Time)
+[2022-07-07 21:52:57] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 21:52:57] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 21:52:57 GMT+0700 (Indochina Time)
+[2022-07-07 21:52:59] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 21:52:59 GMT+0700 (Indochina Time)
+[2022-07-07 21:52:59] [info] Get Vaccine by filter - Time Binding: 2292ms
+[2022-07-07 21:54:22] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 21:54:22 GMT+0700 (Indochina Time)
+[2022-07-07 21:54:22] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 21:54:22 GMT+0700 (Indochina Time)
+[2022-07-07 21:54:22] [info] Get Vaccine by filter redis - Time Binding: 176ms
+[2022-07-07 21:54:22] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 21:54:22 GMT+0700 (Indochina Time)
+[2022-07-07 21:54:24] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 21:54:24 GMT+0700 (Indochina Time)
+[2022-07-07 21:54:24] [info] Get Vaccine by filter - Time Binding: 2218ms
+[2022-07-07 21:54:28] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 21:54:28 GMT+0700 (Indochina Time)
+[2022-07-07 21:54:28] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 21:54:28 GMT+0700 (Indochina Time)
+[2022-07-07 21:54:28] [info] Get Vaccine by filter redis - Time Binding: 28ms
+[2022-07-07 21:54:28] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 21:54:28 GMT+0700 (Indochina Time)
+[2022-07-07 21:54:30] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 21:54:30 GMT+0700 (Indochina Time)
+[2022-07-07 21:54:30] [info] Get Vaccine by filter - Time Binding: 2326ms
+[2022-07-07 21:54:46] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 21:54:46 GMT+0700 (Indochina Time)
+[2022-07-07 21:54:46] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 21:54:46 GMT+0700 (Indochina Time)
+[2022-07-07 21:54:46] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 21:54:46] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 21:54:46 GMT+0700 (Indochina Time)
+[2022-07-07 21:54:48] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 21:54:48 GMT+0700 (Indochina Time)
+[2022-07-07 21:54:48] [info] Get Vaccine by filter - Time Binding: 2198ms
+[2022-07-07 22:27:52] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:27:52 GMT+0700 (Indochina Time)
+[2022-07-07 22:27:52] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:27:52 GMT+0700 (Indochina Time)
+[2022-07-07 22:27:52] [info] Get Vaccine by filter redis - Time Binding: 34ms
+[2022-07-07 22:27:52] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:27:52 GMT+0700 (Indochina Time)
+[2022-07-07 22:27:54] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:27:54 GMT+0700 (Indochina Time)
+[2022-07-07 22:27:54] [info] Get Vaccine by filter - Time Binding: 2071ms
+[2022-07-07 22:28:01] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:28:01 GMT+0700 (Indochina Time)
+[2022-07-07 22:28:01] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:28:01 GMT+0700 (Indochina Time)
+[2022-07-07 22:28:01] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 22:28:01] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:28:01 GMT+0700 (Indochina Time)
+[2022-07-07 22:28:03] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:28:03 GMT+0700 (Indochina Time)
+[2022-07-07 22:28:03] [info] Get Vaccine by filter - Time Binding: 2191ms
+[2022-07-07 22:28:14] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:28:14 GMT+0700 (Indochina Time)
+[2022-07-07 22:28:14] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:28:14 GMT+0700 (Indochina Time)
+[2022-07-07 22:28:14] [info] Get Vaccine by filter redis - Time Binding: 10ms
+[2022-07-07 22:28:14] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:28:14 GMT+0700 (Indochina Time)
+[2022-07-07 22:28:16] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:28:16 GMT+0700 (Indochina Time)
+[2022-07-07 22:28:16] [info] Get Vaccine by filter - Time Binding: 2064ms
+[2022-07-07 22:28:22] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:28:22 GMT+0700 (Indochina Time)
+[2022-07-07 22:28:22] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:28:22 GMT+0700 (Indochina Time)
+[2022-07-07 22:28:22] [info] Get Vaccine by filter redis - Time Binding: 12ms
+[2022-07-07 22:28:22] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:28:22 GMT+0700 (Indochina Time)
+[2022-07-07 22:28:24] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:28:24 GMT+0700 (Indochina Time)
+[2022-07-07 22:28:24] [info] Get Vaccine by filter - Time Binding: 2221ms
+[2022-07-07 22:36:30] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:36:30 GMT+0700 (Indochina Time)
+[2022-07-07 22:36:30] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:36:30 GMT+0700 (Indochina Time)
+[2022-07-07 22:36:30] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 22:36:30] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:36:30 GMT+0700 (Indochina Time)
+[2022-07-07 22:36:32] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:36:32 GMT+0700 (Indochina Time)
+[2022-07-07 22:36:32] [info] Get Vaccine by filter - Time Binding: 2069ms
+[2022-07-07 22:36:46] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:36:46 GMT+0700 (Indochina Time)
+[2022-07-07 22:36:46] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:36:46 GMT+0700 (Indochina Time)
+[2022-07-07 22:36:46] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 22:36:46] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:36:46 GMT+0700 (Indochina Time)
+[2022-07-07 22:36:48] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:36:48 GMT+0700 (Indochina Time)
+[2022-07-07 22:36:48] [info] Get Vaccine by filter - Time Binding: 1931ms
+[2022-07-07 22:37:09] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:37:09 GMT+0700 (Indochina Time)
+[2022-07-07 22:37:09] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:37:09 GMT+0700 (Indochina Time)
+[2022-07-07 22:37:09] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-07 22:37:09] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:37:09 GMT+0700 (Indochina Time)
+[2022-07-07 22:37:11] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:37:11 GMT+0700 (Indochina Time)
+[2022-07-07 22:37:11] [info] Get Vaccine by filter - Time Binding: 2070ms
+[2022-07-07 22:37:50] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:37:50 GMT+0700 (Indochina Time)
+[2022-07-07 22:37:50] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:37:50 GMT+0700 (Indochina Time)
+[2022-07-07 22:37:50] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 22:37:50] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:37:50 GMT+0700 (Indochina Time)
+[2022-07-07 22:37:52] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:37:52 GMT+0700 (Indochina Time)
+[2022-07-07 22:37:52] [info] Get Vaccine by filter - Time Binding: 1952ms
+[2022-07-07 22:41:24] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:41:24 GMT+0700 (Indochina Time)
+[2022-07-07 22:41:24] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:41:24 GMT+0700 (Indochina Time)
+[2022-07-07 22:41:24] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 22:41:24] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:41:24 GMT+0700 (Indochina Time)
+[2022-07-07 22:41:26] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:41:26 GMT+0700 (Indochina Time)
+[2022-07-07 22:41:26] [info] Get Vaccine by filter - Time Binding: 2094ms
+[2022-07-07 22:41:29] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:41:29 GMT+0700 (Indochina Time)
+[2022-07-07 22:41:29] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:41:29 GMT+0700 (Indochina Time)
+[2022-07-07 22:41:29] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 22:41:29] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:41:29 GMT+0700 (Indochina Time)
+[2022-07-07 22:41:31] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:41:31 GMT+0700 (Indochina Time)
+[2022-07-07 22:41:31] [info] Get Vaccine by filter - Time Binding: 1937ms
+[2022-07-07 22:41:32] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:41:32 GMT+0700 (Indochina Time)
+[2022-07-07 22:41:32] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:41:32 GMT+0700 (Indochina Time)
+[2022-07-07 22:41:32] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 22:41:32] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:41:32 GMT+0700 (Indochina Time)
+[2022-07-07 22:41:34] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:41:34 GMT+0700 (Indochina Time)
+[2022-07-07 22:41:34] [info] Get Vaccine by filter - Time Binding: 2030ms
+[2022-07-07 22:42:03] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:42:03 GMT+0700 (Indochina Time)
+[2022-07-07 22:42:03] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:42:03 GMT+0700 (Indochina Time)
+[2022-07-07 22:42:03] [info] Get Vaccine by filter redis - Time Binding: 75ms
+[2022-07-07 22:42:03] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:42:03 GMT+0700 (Indochina Time)
+[2022-07-07 22:42:05] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:42:05 GMT+0700 (Indochina Time)
+[2022-07-07 22:42:05] [info] Get Vaccine by filter - Time Binding: 1969ms
+[2022-07-07 22:42:10] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:42:10 GMT+0700 (Indochina Time)
+[2022-07-07 22:42:10] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:42:10 GMT+0700 (Indochina Time)
+[2022-07-07 22:42:10] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-07 22:42:10] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:42:10 GMT+0700 (Indochina Time)
+[2022-07-07 22:42:12] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:42:12 GMT+0700 (Indochina Time)
+[2022-07-07 22:42:12] [info] Get Vaccine by filter - Time Binding: 2075ms
+[2022-07-07 22:43:24] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:43:24 GMT+0700 (Indochina Time)
+[2022-07-07 22:43:24] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:43:24 GMT+0700 (Indochina Time)
+[2022-07-07 22:43:24] [info] Get Vaccine by filter redis - Time Binding: 14ms
+[2022-07-07 22:43:24] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:43:24 GMT+0700 (Indochina Time)
+[2022-07-07 22:43:26] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:43:26 GMT+0700 (Indochina Time)
+[2022-07-07 22:43:26] [info] Get Vaccine by filter - Time Binding: 1952ms
+[2022-07-07 22:43:43] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:43:43 GMT+0700 (Indochina Time)
+[2022-07-07 22:43:43] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:43:43 GMT+0700 (Indochina Time)
+[2022-07-07 22:43:43] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 22:43:43] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:43:43 GMT+0700 (Indochina Time)
+[2022-07-07 22:43:45] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:43:45 GMT+0700 (Indochina Time)
+[2022-07-07 22:43:45] [info] Get Vaccine by filter - Time Binding: 2076ms
+[2022-07-07 22:43:45] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:43:45 GMT+0700 (Indochina Time)
+[2022-07-07 22:43:45] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:43:45 GMT+0700 (Indochina Time)
+[2022-07-07 22:43:45] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-07 22:43:45] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:43:45 GMT+0700 (Indochina Time)
+[2022-07-07 22:43:47] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:43:47 GMT+0700 (Indochina Time)
+[2022-07-07 22:43:47] [info] Get Vaccine by filter - Time Binding: 1968ms
+[2022-07-07 22:44:16] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:44:16 GMT+0700 (Indochina Time)
+[2022-07-07 22:44:16] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:44:16 GMT+0700 (Indochina Time)
+[2022-07-07 22:44:16] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 22:44:16] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:44:16 GMT+0700 (Indochina Time)
+[2022-07-07 22:44:18] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:44:18 GMT+0700 (Indochina Time)
+[2022-07-07 22:44:18] [info] Get Vaccine by filter - Time Binding: 2044ms
+[2022-07-07 22:45:00] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:45:00 GMT+0700 (Indochina Time)
+[2022-07-07 22:45:00] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:45:00 GMT+0700 (Indochina Time)
+[2022-07-07 22:45:00] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 22:45:00] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:45:00 GMT+0700 (Indochina Time)
+[2022-07-07 22:45:02] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:45:02 GMT+0700 (Indochina Time)
+[2022-07-07 22:45:02] [info] Get Vaccine by filter - Time Binding: 1763ms
+[2022-07-07 22:45:15] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:45:15 GMT+0700 (Indochina Time)
+[2022-07-07 22:45:15] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:45:15 GMT+0700 (Indochina Time)
+[2022-07-07 22:45:15] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 22:45:15] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:45:15 GMT+0700 (Indochina Time)
+[2022-07-07 22:45:17] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:45:17 GMT+0700 (Indochina Time)
+[2022-07-07 22:45:17] [info] Get Vaccine by filter - Time Binding: 2053ms
+[2022-07-07 22:46:11] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:46:11 GMT+0700 (Indochina Time)
+[2022-07-07 22:46:11] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:46:11 GMT+0700 (Indochina Time)
+[2022-07-07 22:46:11] [info] Get Vaccine by filter redis - Time Binding: 10ms
+[2022-07-07 22:46:11] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:46:11 GMT+0700 (Indochina Time)
+[2022-07-07 22:46:13] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:46:13 GMT+0700 (Indochina Time)
+[2022-07-07 22:46:13] [info] Get Vaccine by filter - Time Binding: 1953ms
+[2022-07-07 22:46:16] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:46:16 GMT+0700 (Indochina Time)
+[2022-07-07 22:46:16] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:46:16 GMT+0700 (Indochina Time)
+[2022-07-07 22:46:16] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-07 22:46:16] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:46:16 GMT+0700 (Indochina Time)
+[2022-07-07 22:46:18] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:46:18 GMT+0700 (Indochina Time)
+[2022-07-07 22:46:18] [info] Get Vaccine by filter - Time Binding: 2132ms
+[2022-07-07 22:51:03] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:51:03 GMT+0700 (Indochina Time)
+[2022-07-07 22:51:03] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:51:03 GMT+0700 (Indochina Time)
+[2022-07-07 22:51:03] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 22:51:03] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:51:03 GMT+0700 (Indochina Time)
+[2022-07-07 22:51:05] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:51:05 GMT+0700 (Indochina Time)
+[2022-07-07 22:51:05] [info] Get Vaccine by filter - Time Binding: 1943ms
+[2022-07-07 22:51:14] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:51:14 GMT+0700 (Indochina Time)
+[2022-07-07 22:51:14] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:51:14 GMT+0700 (Indochina Time)
+[2022-07-07 22:51:14] [info] Get Vaccine by filter redis - Time Binding: 9ms
+[2022-07-07 22:51:14] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:51:14 GMT+0700 (Indochina Time)
+[2022-07-07 22:51:16] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:51:16 GMT+0700 (Indochina Time)
+[2022-07-07 22:51:16] [info] Get Vaccine by filter - Time Binding: 2040ms
+[2022-07-07 22:52:41] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:52:41 GMT+0700 (Indochina Time)
+[2022-07-07 22:52:41] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:52:41 GMT+0700 (Indochina Time)
+[2022-07-07 22:52:41] [info] Get Vaccine by filter redis - Time Binding: 9ms
+[2022-07-07 22:52:41] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:52:41 GMT+0700 (Indochina Time)
+[2022-07-07 22:52:43] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:52:43 GMT+0700 (Indochina Time)
+[2022-07-07 22:52:43] [info] Get Vaccine by filter - Time Binding: 2037ms
+[2022-07-07 22:53:30] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:53:30 GMT+0700 (Indochina Time)
+[2022-07-07 22:53:30] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:53:30 GMT+0700 (Indochina Time)
+[2022-07-07 22:53:30] [info] Get Vaccine by filter redis - Time Binding: 10ms
+[2022-07-07 22:53:30] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:53:30 GMT+0700 (Indochina Time)
+[2022-07-07 22:53:32] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:53:32 GMT+0700 (Indochina Time)
+[2022-07-07 22:53:32] [info] Get Vaccine by filter - Time Binding: 1704ms
+[2022-07-07 22:56:47] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:56:47 GMT+0700 (Indochina Time)
+[2022-07-07 22:56:47] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:56:47 GMT+0700 (Indochina Time)
+[2022-07-07 22:56:47] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 22:56:47] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:56:47 GMT+0700 (Indochina Time)
+[2022-07-07 22:56:49] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:56:49 GMT+0700 (Indochina Time)
+[2022-07-07 22:56:49] [info] Get Vaccine by filter - Time Binding: 2048ms
+[2022-07-07 22:57:11] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:57:11 GMT+0700 (Indochina Time)
+[2022-07-07 22:57:11] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:57:11 GMT+0700 (Indochina Time)
+[2022-07-07 22:57:11] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 22:57:11] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:57:11 GMT+0700 (Indochina Time)
+[2022-07-07 22:57:13] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:57:13 GMT+0700 (Indochina Time)
+[2022-07-07 22:57:13] [info] Get Vaccine by filter - Time Binding: 1966ms
+[2022-07-07 22:57:36] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:57:36 GMT+0700 (Indochina Time)
+[2022-07-07 22:57:36] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:57:36 GMT+0700 (Indochina Time)
+[2022-07-07 22:57:36] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 22:57:36] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:57:36 GMT+0700 (Indochina Time)
+[2022-07-07 22:57:38] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:57:38 GMT+0700 (Indochina Time)
+[2022-07-07 22:57:38] [info] Get Vaccine by filter - Time Binding: 2069ms
+[2022-07-07 22:58:51] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:58:51 GMT+0700 (Indochina Time)
+[2022-07-07 22:58:51] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:58:51 GMT+0700 (Indochina Time)
+[2022-07-07 22:58:51] [info] Get Vaccine by filter redis - Time Binding: 149ms
+[2022-07-07 22:58:51] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:58:51 GMT+0700 (Indochina Time)
+[2022-07-07 22:58:53] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:58:53 GMT+0700 (Indochina Time)
+[2022-07-07 22:58:53] [info] Get Vaccine by filter - Time Binding: 1721ms
+[2022-07-07 22:59:28] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:59:28 GMT+0700 (Indochina Time)
+[2022-07-07 22:59:28] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:59:28 GMT+0700 (Indochina Time)
+[2022-07-07 22:59:28] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 22:59:28] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:59:28 GMT+0700 (Indochina Time)
+[2022-07-07 22:59:30] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 22:59:30 GMT+0700 (Indochina Time)
+[2022-07-07 22:59:30] [info] Get Vaccine by filter - Time Binding: 2054ms
+[2022-07-07 22:59:58] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 22:59:58 GMT+0700 (Indochina Time)
+[2022-07-07 22:59:58] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 22:59:58 GMT+0700 (Indochina Time)
+[2022-07-07 22:59:58] [info] Get Vaccine by filter redis - Time Binding: 83ms
+[2022-07-07 22:59:58] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 22:59:58 GMT+0700 (Indochina Time)
+[2022-07-07 23:00:00] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:00:00 GMT+0700 (Indochina Time)
+[2022-07-07 23:00:00] [info] Get Vaccine by filter - Time Binding: 1940ms
+[2022-07-07 23:00:56] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:00:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:00:56] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:00:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:00:56] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:00:56] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:00:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:00:59] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:00:59 GMT+0700 (Indochina Time)
+[2022-07-07 23:00:59] [info] Get Vaccine by filter - Time Binding: 2024ms
+[2022-07-07 23:01:26] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:01:26 GMT+0700 (Indochina Time)
+[2022-07-07 23:01:26] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:01:26 GMT+0700 (Indochina Time)
+[2022-07-07 23:01:26] [info] Get Vaccine by filter redis - Time Binding: 8ms
+[2022-07-07 23:01:26] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:01:26 GMT+0700 (Indochina Time)
+[2022-07-07 23:01:28] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:01:28 GMT+0700 (Indochina Time)
+[2022-07-07 23:01:28] [info] Get Vaccine by filter - Time Binding: 1952ms
+[2022-07-07 23:01:58] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:01:58 GMT+0700 (Indochina Time)
+[2022-07-07 23:01:58] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:01:58 GMT+0700 (Indochina Time)
+[2022-07-07 23:01:58] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-07 23:01:58] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:01:58 GMT+0700 (Indochina Time)
+[2022-07-07 23:02:00] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:02:00 GMT+0700 (Indochina Time)
+[2022-07-07 23:02:00] [info] Get Vaccine by filter - Time Binding: 2046ms
+[2022-07-07 23:02:17] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:02:17 GMT+0700 (Indochina Time)
+[2022-07-07 23:02:17] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:02:17 GMT+0700 (Indochina Time)
+[2022-07-07 23:02:17] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:02:17] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:02:17 GMT+0700 (Indochina Time)
+[2022-07-07 23:02:19] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:02:19 GMT+0700 (Indochina Time)
+[2022-07-07 23:02:19] [info] Get Vaccine by filter - Time Binding: 1946ms
+[2022-07-07 23:02:58] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:02:58 GMT+0700 (Indochina Time)
+[2022-07-07 23:02:58] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:02:58 GMT+0700 (Indochina Time)
+[2022-07-07 23:02:58] [info] Get Vaccine by filter redis - Time Binding: 9ms
+[2022-07-07 23:02:58] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:02:58 GMT+0700 (Indochina Time)
+[2022-07-07 23:03:00] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:03:00 GMT+0700 (Indochina Time)
+[2022-07-07 23:03:00] [info] Get Vaccine by filter - Time Binding: 2045ms
+[2022-07-07 23:03:05] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:03:05 GMT+0700 (Indochina Time)
+[2022-07-07 23:03:05] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:03:05 GMT+0700 (Indochina Time)
+[2022-07-07 23:03:05] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:03:05] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:03:05 GMT+0700 (Indochina Time)
+[2022-07-07 23:03:06] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:03:06 GMT+0700 (Indochina Time)
+[2022-07-07 23:03:06] [info] Get Vaccine by filter - Time Binding: 1737ms
+[2022-07-07 23:03:45] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:03:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:03:45] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:03:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:03:45] [info] Get Vaccine by filter redis - Time Binding: 94ms
+[2022-07-07 23:03:45] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:03:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:03:47] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:03:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:03:47] [info] Get Vaccine by filter - Time Binding: 2295ms
+[2022-07-07 23:03:50] [info] Get Vaccine by Id - Start Time: Thu Jul 07 2022 23:03:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:03:51] [info] Get Vaccine by Id - End Time: Thu Jul 07 2022 23:03:51 GMT+0700 (Indochina Time)
+[2022-07-07 23:03:51] [info] Get Vaccine by Id - Time Binding: 269ms
+[2022-07-07 23:04:15] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:15 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:15] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:15 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:15] [info] Get Vaccine by filter redis - Time Binding: 159ms
+[2022-07-07 23:04:15] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:15 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:17] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:17 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:17] [info] Get Vaccine by filter - Time Binding: 1721ms
+[2022-07-07 23:04:19] [info] Get Vaccine by Id - Start Time: Thu Jul 07 2022 23:04:19 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:19] [info] Get Vaccine by Id - End Time: Thu Jul 07 2022 23:04:19 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:19] [info] Get Vaccine by Id - Time Binding: 243ms
+[2022-07-07 23:04:25] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:25 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:25] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:25 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:25] [info] Get Vaccine by filter redis - Time Binding: 10ms
+[2022-07-07 23:04:25] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:25 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:27] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:27 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:27] [info] Get Vaccine by filter - Time Binding: 2287ms
+[2022-07-07 23:04:30] [info] Get Vaccine by Id - Start Time: Thu Jul 07 2022 23:04:30 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:30] [info] Get Vaccine by Id - End Time: Thu Jul 07 2022 23:04:30 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:30] [info] Get Vaccine by Id - Time Binding: 258ms
+[2022-07-07 23:04:32] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:32 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:32] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:32 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:32] [info] Get Vaccine by filter redis - Time Binding: 12ms
+[2022-07-07 23:04:32] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:32 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:33] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:33 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:33] [info] Get Vaccine by filter - Time Binding: 1716ms
+[2022-07-07 23:04:38] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:38 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:38] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:38 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:38] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:04:38] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:38 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:38] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:38 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:38] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:38 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:38] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:04:38] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:38 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:38] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:38 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:38] [info] Get Vaccine by filter - Time Binding: 478ms
+[2022-07-07 23:04:38] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:38 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:38] [info] Get Vaccine by filter - Time Binding: 506ms
+[2022-07-07 23:04:39] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:39 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:39] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:39 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:40] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:40 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:40] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:40 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:40] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:04:40] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:40 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:40] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:40 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:40] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:40 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:40] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:04:40] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:40 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:40] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:40 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:40] [info] Get Vaccine by filter - Time Binding: 501ms
+[2022-07-07 23:04:41] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:41 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:41] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:41 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:41] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:04:41] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:41 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:41] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:41 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:41] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:41 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:41] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:04:41] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:41 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:42] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:42 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:42] [info] Get Vaccine by filter - Time Binding: 1701ms
+[2022-07-07 23:04:42] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:42 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:42] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:42 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:42] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:04:42] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:42 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:43] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:43 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:43] [info] Get Vaccine by filter - Time Binding: 1716ms
+[2022-07-07 23:04:43] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:43 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:43] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:43 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:43] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:04:43] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:43 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:43] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:43 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:43] [info] Get Vaccine by filter - Time Binding: 2311ms
+[2022-07-07 23:04:43] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:43 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:43] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:43 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:43] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:04:43] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:43 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:43] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:43 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:43] [info] Get Vaccine by filter - Time Binding: 1245ms
+[2022-07-07 23:04:44] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:44 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:44] [info] Get Vaccine by filter - Time Binding: 785ms
+[2022-07-07 23:04:44] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:44 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:44] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:44 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:44] [info] Get Vaccine by filter redis - Time Binding: 12ms
+[2022-07-07 23:04:44] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:44 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:45] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:45] [info] Get Vaccine by filter - Time Binding: 755ms
+[2022-07-07 23:04:45] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:45] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:45] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:04:45] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:45] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:45] [info] Get Vaccine by filter - Time Binding: 1814ms
+[2022-07-07 23:04:45] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:45] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:45] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:04:45] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:45] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:45] [info] Get Vaccine by filter - Time Binding: 482ms
+[2022-07-07 23:04:45] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:45] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:45] [info] Get Vaccine by filter redis - Time Binding: 3ms
+[2022-07-07 23:04:45] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:46] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:46 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:46] [info] Get Vaccine by filter - Time Binding: 480ms
+[2022-07-07 23:04:46] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:46 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:46] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:46 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:46] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-07 23:04:46] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:46 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:46] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:46 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:46] [info] Get Vaccine by filter - Time Binding: 771ms
+[2022-07-07 23:04:46] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:46 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:46] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:46 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:46] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:04:46] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:46 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:46] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:46 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:46] [info] Get Vaccine by filter - Time Binding: 480ms
+[2022-07-07 23:04:46] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:46 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:46] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:46 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:46] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:04:46] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:46 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:47] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:47] [info] Get Vaccine by filter - Time Binding: 749ms
+[2022-07-07 23:04:47] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:47] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:47] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:04:47] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:47] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:47] [info] Get Vaccine by filter - Time Binding: 1294ms
+[2022-07-07 23:04:47] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:47] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:47] [info] Get Vaccine by filter redis - Time Binding: 8ms
+[2022-07-07 23:04:47] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:48] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:48] [info] Get Vaccine by filter - Time Binding: 737ms
+[2022-07-07 23:04:48] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:48] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:48] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-07 23:04:48] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:48] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:48] [info] Get Vaccine by filter - Time Binding: 483ms
+[2022-07-07 23:04:48] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:48] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:48] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:04:48] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:48] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:48] [info] Get Vaccine by filter - Time Binding: 1264ms
+[2022-07-07 23:04:48] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:48] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:48] [info] Get Vaccine by filter redis - Time Binding: 10ms
+[2022-07-07 23:04:48] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:49] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:49] [info] Get Vaccine by filter - Time Binding: 478ms
+[2022-07-07 23:04:49] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:49] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:49] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 23:04:49] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:49] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:49] [info] Get Vaccine by filter - Time Binding: 508ms
+[2022-07-07 23:04:49] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:49] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:49] [info] Get Vaccine by filter redis - Time Binding: 8ms
+[2022-07-07 23:04:49] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:49] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:49] [info] Get Vaccine by filter - Time Binding: 733ms
+[2022-07-07 23:04:49] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-07 23:04:50] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter - Time Binding: 1029ms
+[2022-07-07 23:04:50] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 23:04:50] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter - Time Binding: 482ms
+[2022-07-07 23:04:50] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:04:50] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter - Time Binding: 498ms
+[2022-07-07 23:04:50] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:50] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:04:50] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:51] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:51 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:51] [info] Get Vaccine by filter - Time Binding: 744ms
+[2022-07-07 23:04:51] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:04:51 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:51] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:04:51 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:51] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-07 23:04:51] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:04:51 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:51] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:51 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:51] [info] Get Vaccine by filter - Time Binding: 501ms
+[2022-07-07 23:04:51] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:04:51 GMT+0700 (Indochina Time)
+[2022-07-07 23:04:51] [info] Get Vaccine by filter - Time Binding: 481ms
+[2022-07-07 23:05:00] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:05:00 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:00] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:05:00 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:00] [info] Get Vaccine by filter redis - Time Binding: 162ms
+[2022-07-07 23:05:00] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:05:00 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:00] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:05:00 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:00] [info] Get Vaccine by filter - Time Binding: 479ms
+[2022-07-07 23:05:02] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:05:02 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:02] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:05:02 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:02] [info] Get Vaccine by filter redis - Time Binding: 46ms
+[2022-07-07 23:05:02] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:05:02 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:03] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:05:03 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:03] [info] Get Vaccine by filter - Time Binding: 1475ms
+[2022-07-07 23:05:03] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:05:03 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:03] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:05:03 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:03] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:05:03] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:05:03 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:04] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:05:04 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:04] [info] Get Vaccine by filter - Time Binding: 749ms
+[2022-07-07 23:05:12] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:05:12 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:12] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:05:12 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:12] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:05:12] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:05:12 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:13] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:05:13 GMT+0700 (Indochina Time)
+[2022-07-07 23:05:13] [info] Get Vaccine by filter - Time Binding: 1487ms
+[2022-07-07 23:06:24] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:06:24 GMT+0700 (Indochina Time)
+[2022-07-07 23:06:24] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:06:24 GMT+0700 (Indochina Time)
+[2022-07-07 23:06:24] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:06:24] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:06:24 GMT+0700 (Indochina Time)
+[2022-07-07 23:06:26] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:06:26 GMT+0700 (Indochina Time)
+[2022-07-07 23:06:26] [info] Get Vaccine by filter - Time Binding: 1564ms
+[2022-07-07 23:06:40] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:06:40 GMT+0700 (Indochina Time)
+[2022-07-07 23:06:40] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:06:40 GMT+0700 (Indochina Time)
+[2022-07-07 23:06:40] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 23:06:40] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:06:40 GMT+0700 (Indochina Time)
+[2022-07-07 23:06:41] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:06:41 GMT+0700 (Indochina Time)
+[2022-07-07 23:06:41] [info] Get Vaccine by filter - Time Binding: 1492ms
+[2022-07-07 23:06:56] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:06:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:06:56] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:06:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:06:56] [info] Get Vaccine by filter redis - Time Binding: 15ms
+[2022-07-07 23:06:56] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:06:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:06:57] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:06:57 GMT+0700 (Indochina Time)
+[2022-07-07 23:06:57] [info] Get Vaccine by filter - Time Binding: 1559ms
+[2022-07-07 23:07:06] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:06 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:06] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:06 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:06] [info] Get Vaccine by filter redis - Time Binding: 28ms
+[2022-07-07 23:07:06] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:06 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:06] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:06 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:06] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:06 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:06] [info] Get Vaccine by filter redis - Time Binding: 12ms
+[2022-07-07 23:07:06] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:06 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter - Time Binding: 482ms
+[2022-07-07 23:07:07] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter redis - Time Binding: 97ms
+[2022-07-07 23:07:07] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter redis - Time Binding: 271ms
+[2022-07-07 23:07:07] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter - Time Binding: 1551ms
+[2022-07-07 23:07:07] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:07] [info] Get Vaccine by filter redis - Time Binding: 8ms
+[2022-07-07 23:07:07] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:08] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:08 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:08] [info] Get Vaccine by filter - Time Binding: 479ms
+[2022-07-07 23:07:08] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:08 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:08] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:08 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:08] [info] Get Vaccine by filter redis - Time Binding: 26ms
+[2022-07-07 23:07:08] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:08 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:08] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:08 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:08] [info] Get Vaccine by filter - Time Binding: 482ms
+[2022-07-07 23:07:08] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:08 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:08] [info] Get Vaccine by filter - Time Binding: 1501ms
+[2022-07-07 23:07:09] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:09 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:09] [info] Get Vaccine by filter - Time Binding: 1298ms
+[2022-07-07 23:07:27] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:27 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:27] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:27 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:27] [info] Get Vaccine by filter redis - Time Binding: 12ms
+[2022-07-07 23:07:27] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:27 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:27] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:27 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:27] [info] Get Vaccine by filter - Time Binding: 550ms
+[2022-07-07 23:07:27] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:27 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:27] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:27 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:27] [info] Get Vaccine by filter redis - Time Binding: 17ms
+[2022-07-07 23:07:27] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:27 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:28] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:28 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:28] [info] Get Vaccine by filter - Time Binding: 501ms
+[2022-07-07 23:07:28] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:28 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:28] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:28 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:28] [info] Get Vaccine by filter redis - Time Binding: 29ms
+[2022-07-07 23:07:28] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:28 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:29] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:29 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:29] [info] Get Vaccine by filter - Time Binding: 1561ms
+[2022-07-07 23:07:29] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:29 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:29] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:29 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:29] [info] Get Vaccine by filter redis - Time Binding: 17ms
+[2022-07-07 23:07:29] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:29 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:31] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:31 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:31] [info] Get Vaccine by filter - Time Binding: 1292ms
+[2022-07-07 23:07:31] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:31 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:31] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:31 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:31] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 23:07:31] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:31 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:32] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:32 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:32] [info] Get Vaccine by filter - Time Binding: 1312ms
+[2022-07-07 23:07:47] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:47] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:47] [info] Get Vaccine by filter redis - Time Binding: 8ms
+[2022-07-07 23:07:47] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:48] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:48 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:48] [info] Get Vaccine by filter - Time Binding: 1477ms
+[2022-07-07 23:07:53] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:53 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:53] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:53 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:53] [info] Get Vaccine by filter redis - Time Binding: 26ms
+[2022-07-07 23:07:53] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:53 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - Time Binding: 8ms
+[2022-07-07 23:07:54] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - Time Binding: 34ms
+[2022-07-07 23:07:54] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - Time Binding: 36ms
+[2022-07-07 23:07:54] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter - Time Binding: 510ms
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - Time Binding: 32ms
+[2022-07-07 23:07:54] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter - Time Binding: 478ms
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:54] [info] Get Vaccine by filter redis - Time Binding: 22ms
+[2022-07-07 23:07:54] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:54 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - Time Binding: 1221ms
+[2022-07-07 23:07:55] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - Time Binding: 506ms
+[2022-07-07 23:07:55] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter redis - Time Binding: 39ms
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter redis - Time Binding: 22ms
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - Time Binding: 481ms
+[2022-07-07 23:07:55] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter redis - Time Binding: 13ms
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - Time Binding: 484ms
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:55] [info] Get Vaccine by filter - Time Binding: 479ms
+[2022-07-07 23:07:56] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:56] [info] Get Vaccine by filter - Time Binding: 1268ms
+[2022-07-07 23:07:59] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:07:59 GMT+0700 (Indochina Time)
+[2022-07-07 23:07:59] [info] Get Vaccine by filter - Time Binding: 4790ms
+[2022-07-07 23:08:07] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:08:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:07] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:08:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:07] [info] Get Vaccine by filter redis - Time Binding: 12ms
+[2022-07-07 23:08:07] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:08:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:10] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:08:10 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:10] [info] Get Vaccine by filter - Time Binding: 3270ms
+[2022-07-07 23:08:10] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:08:10 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:10] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:08:10 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:10] [info] Get Vaccine by filter redis - Time Binding: 27ms
+[2022-07-07 23:08:10] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:08:10 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:12] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:08:12 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:12] [info] Get Vaccine by filter - Time Binding: 1787ms
+[2022-07-07 23:08:12] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:08:12 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:12] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:08:12 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:12] [info] Get Vaccine by filter redis - Time Binding: 13ms
+[2022-07-07 23:08:12] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:08:12 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:13] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:08:13 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:13] [info] Get Vaccine by filter - Time Binding: 508ms
+[2022-07-07 23:08:13] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:08:13 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:13] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:08:13 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:13] [info] Get Vaccine by filter redis - Time Binding: 11ms
+[2022-07-07 23:08:13] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:08:13 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:13] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:08:13 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:13] [info] Get Vaccine by filter - Time Binding: 506ms
+[2022-07-07 23:08:14] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:08:14 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:14] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:08:14 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:14] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:08:14] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:08:14 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:14] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:08:14 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:14] [info] Get Vaccine by filter - Time Binding: 499ms
+[2022-07-07 23:08:14] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:08:14 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:14] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:08:14 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:14] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 23:08:14] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:08:14 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:16] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:08:16 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:16] [info] Get Vaccine by filter - Time Binding: 1802ms
+[2022-07-07 23:08:16] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:08:16 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:16] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:08:16 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:16] [info] Get Vaccine by filter redis - Time Binding: 17ms
+[2022-07-07 23:08:16] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:08:16 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:17] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:08:17 GMT+0700 (Indochina Time)
+[2022-07-07 23:08:17] [info] Get Vaccine by filter - Time Binding: 504ms
+[2022-07-07 23:09:45] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:09:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:45] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:09:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:45] [info] Get Vaccine by filter redis - Time Binding: 453ms
+[2022-07-07 23:09:45] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:09:45 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:47] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:09:47 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:47] [info] Get Vaccine by filter - Time Binding: 2273ms
+[2022-07-07 23:09:55] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:09:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:55] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:09:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:55] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:09:55] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:09:55 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Time Binding: 500ms
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Time Binding: 9ms
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Time Binding: 502ms
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Time Binding: 500ms
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Time Binding: 478ms
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter redis - Time Binding: 12ms
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:09:56 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:56] [info] Get Vaccine by filter - Time Binding: 480ms
+[2022-07-07 23:09:57] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:09:57 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:57] [info] Get Vaccine by filter - Time Binding: 496ms
+[2022-07-07 23:09:57] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:09:57 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:57] [info] Get Vaccine by filter - Time Binding: 479ms
+[2022-07-07 23:09:57] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:09:57 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:57] [info] Get Vaccine by filter - Time Binding: 500ms
+[2022-07-07 23:09:58] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:09:58 GMT+0700 (Indochina Time)
+[2022-07-07 23:09:58] [info] Get Vaccine by filter - Time Binding: 1868ms
+[2022-07-07 23:17:11] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:17:11 GMT+0700 (Indochina Time)
+[2022-07-07 23:17:11] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:17:11 GMT+0700 (Indochina Time)
+[2022-07-07 23:17:11] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-07 23:17:11] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:17:11 GMT+0700 (Indochina Time)
+[2022-07-07 23:17:13] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:17:13 GMT+0700 (Indochina Time)
+[2022-07-07 23:17:13] [info] Get Vaccine by filter - Time Binding: 1532ms
+[2022-07-07 23:18:14] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:18:14 GMT+0700 (Indochina Time)
+[2022-07-07 23:18:14] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:18:14 GMT+0700 (Indochina Time)
+[2022-07-07 23:18:14] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-07 23:18:14] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:18:14 GMT+0700 (Indochina Time)
+[2022-07-07 23:18:16] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:18:16 GMT+0700 (Indochina Time)
+[2022-07-07 23:18:16] [info] Get Vaccine by filter - Time Binding: 1736ms
+[2022-07-07 23:20:36] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:20:36 GMT+0700 (Indochina Time)
+[2022-07-07 23:20:36] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:20:36 GMT+0700 (Indochina Time)
+[2022-07-07 23:20:36] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-07 23:20:36] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:20:36 GMT+0700 (Indochina Time)
+[2022-07-07 23:20:38] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:20:38 GMT+0700 (Indochina Time)
+[2022-07-07 23:20:38] [info] Get Vaccine by filter - Time Binding: 1562ms
+[2022-07-07 23:21:49] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:21:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:21:49] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:21:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:21:49] [info] Get Vaccine by filter redis - Time Binding: 3ms
+[2022-07-07 23:21:49] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:21:49 GMT+0700 (Indochina Time)
+[2022-07-07 23:21:50] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:21:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:21:50] [info] Get Vaccine by filter - Time Binding: 1489ms
+[2022-07-07 23:26:23] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:26:23 GMT+0700 (Indochina Time)
+[2022-07-07 23:26:23] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:26:23 GMT+0700 (Indochina Time)
+[2022-07-07 23:26:23] [info] Get Vaccine by filter redis - Time Binding: 9ms
+[2022-07-07 23:26:23] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:26:23 GMT+0700 (Indochina Time)
+[2022-07-07 23:26:25] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:26:25 GMT+0700 (Indochina Time)
+[2022-07-07 23:26:25] [info] Get Vaccine by filter - Time Binding: 1571ms
+[2022-07-07 23:29:06] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:29:06 GMT+0700 (Indochina Time)
+[2022-07-07 23:29:06] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:29:06 GMT+0700 (Indochina Time)
+[2022-07-07 23:29:06] [info] Get Vaccine by filter redis - Time Binding: 11ms
+[2022-07-07 23:29:06] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:29:06 GMT+0700 (Indochina Time)
+[2022-07-07 23:29:07] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:29:07 GMT+0700 (Indochina Time)
+[2022-07-07 23:29:07] [info] Get Vaccine by filter - Time Binding: 1495ms
+[2022-07-07 23:29:50] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:29:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:29:50] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:29:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:29:50] [info] Get Vaccine by filter redis - Time Binding: 87ms
+[2022-07-07 23:29:50] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:29:50 GMT+0700 (Indochina Time)
+[2022-07-07 23:29:51] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:29:51 GMT+0700 (Indochina Time)
+[2022-07-07 23:29:51] [info] Get Vaccine by filter - Time Binding: 1571ms
+[2022-07-07 23:30:10] [info] Get Vaccine by filter redis - Start Time: Thu Jul 07 2022 23:30:10 GMT+0700 (Indochina Time)
+[2022-07-07 23:30:10] [info] Get Vaccine by filter redis - End Time: Thu Jul 07 2022 23:30:10 GMT+0700 (Indochina Time)
+[2022-07-07 23:30:10] [info] Get Vaccine by filter redis - Time Binding: 42ms
+[2022-07-07 23:30:10] [info] Get Vaccine by filter - Start Time: Thu Jul 07 2022 23:30:10 GMT+0700 (Indochina Time)
+[2022-07-07 23:30:11] [info] Get Vaccine by filter - End Time: Thu Jul 07 2022 23:30:11 GMT+0700 (Indochina Time)
+[2022-07-07 23:30:11] [info] Get Vaccine by filter - Time Binding: 1493ms
+[2022-07-09 08:30:51] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:30:51 GMT+0700 (Indochina Time)
+[2022-07-09 08:30:51] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:30:51 GMT+0700 (Indochina Time)
+[2022-07-09 08:30:51] [info] Get Vaccine by filter redis - Time Binding: 19ms
+[2022-07-09 08:30:51] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:30:51 GMT+0700 (Indochina Time)
+[2022-07-09 08:30:52] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:30:52 GMT+0700 (Indochina Time)
+[2022-07-09 08:30:52] [info] Get Vaccine by filter - Time Binding: 1717ms
+[2022-07-09 08:31:18] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:31:18 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:18] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:31:18 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:18] [info] Get Vaccine by filter redis - Time Binding: 19ms
+[2022-07-09 08:31:18] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:31:18 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:18] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:31:18 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:18] [info] Get Vaccine by filter - Time Binding: 771ms
+[2022-07-09 08:31:18] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:31:18 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:18] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:31:18 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:18] [info] Get Vaccine by filter redis - Time Binding: 22ms
+[2022-07-09 08:31:18] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:31:18 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:20] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:31:20 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:20] [info] Get Vaccine by filter - Time Binding: 1374ms
+[2022-07-09 08:31:22] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:31:22 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:22] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:31:22 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:22] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-09 08:31:22] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:31:22 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:23] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:31:23 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:23] [info] Get Vaccine by filter - Time Binding: 1283ms
+[2022-07-09 08:31:24] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:31:24 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:24] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:31:24 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:24] [info] Get Vaccine by filter redis - Time Binding: 16ms
+[2022-07-09 08:31:24] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:31:24 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:24] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:31:24 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:24] [info] Get Vaccine by filter - Time Binding: 548ms
+[2022-07-09 08:31:29] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:31:29 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:29] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:31:29 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:29] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-09 08:31:29] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:31:29 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:30] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:31:30 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:30] [info] Get Vaccine by filter - Time Binding: 550ms
+[2022-07-09 08:31:35] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:31:35 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:35] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:31:35 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:35] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-09 08:31:35] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:31:35 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:36] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:31:36 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:36] [info] Get Vaccine by filter - Time Binding: 502ms
+[2022-07-09 08:31:41] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:31:41 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:43] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:31:43 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:43] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:31:43 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:43] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-09 08:31:43] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:31:43 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:44] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:31:44 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:44] [info] Get Vaccine by filter - Time Binding: 1628ms
+[2022-07-09 08:31:45] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:31:45 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:45] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:31:45 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:45] [info] Get Vaccine by filter redis - Time Binding: 4ms
+[2022-07-09 08:31:45] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:31:45 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:46] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:31:46 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:46] [info] Get Vaccine by filter - Time Binding: 835ms
+[2022-07-09 08:31:51] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:31:51 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:51] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:31:51 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:51] [info] Get Vaccine by filter redis - Time Binding: 84ms
+[2022-07-09 08:31:51] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:31:51 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:52] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:31:52 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:52] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:31:52 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:52] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-09 08:31:52] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:31:52 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:52] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:31:52 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:52] [info] Get Vaccine by filter - Time Binding: 1267ms
+[2022-07-09 08:31:52] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:31:52 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:52] [info] Get Vaccine by filter - Time Binding: 766ms
+[2022-07-09 08:31:56] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:31:56 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:56] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:31:56 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:56] [info] Get Vaccine by filter redis - Time Binding: 9ms
+[2022-07-09 08:31:56] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:31:56 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:59] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:31:59 GMT+0700 (Indochina Time)
+[2022-07-09 08:31:59] [info] Get Vaccine by filter - Time Binding: 3047ms
+[2022-07-09 08:32:02] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:32:02 GMT+0700 (Indochina Time)
+[2022-07-09 08:32:02] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:32:02 GMT+0700 (Indochina Time)
+[2022-07-09 08:32:02] [info] Get Vaccine by filter redis - Time Binding: 7ms
+[2022-07-09 08:32:02] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:32:02 GMT+0700 (Indochina Time)
+[2022-07-09 08:32:05] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:32:05 GMT+0700 (Indochina Time)
+[2022-07-09 08:32:05] [info] Get Vaccine by filter - Time Binding: 2768ms
+[2022-07-09 08:32:13] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:32:13 GMT+0700 (Indochina Time)
+[2022-07-09 08:32:13] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:32:13 GMT+0700 (Indochina Time)
+[2022-07-09 08:32:13] [info] Get Vaccine by filter redis - Time Binding: 3ms
+[2022-07-09 08:32:13] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:32:13 GMT+0700 (Indochina Time)
+[2022-07-09 08:32:16] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:32:16 GMT+0700 (Indochina Time)
+[2022-07-09 08:32:16] [info] Get Vaccine by filter - Time Binding: 2656ms
+[2022-07-09 08:32:33] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:32:33 GMT+0700 (Indochina Time)
+[2022-07-09 08:32:33] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:32:33 GMT+0700 (Indochina Time)
+[2022-07-09 08:32:33] [info] Get Vaccine by filter redis - Time Binding: 5ms
+[2022-07-09 08:32:33] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:32:33 GMT+0700 (Indochina Time)
+[2022-07-09 08:32:35] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:32:35 GMT+0700 (Indochina Time)
+[2022-07-09 08:32:35] [info] Get Vaccine by filter - Time Binding: 2606ms
+[2022-07-09 08:36:30] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 08:36:30 GMT+0700 (Indochina Time)
+[2022-07-09 08:36:30] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 08:36:30 GMT+0700 (Indochina Time)
+[2022-07-09 08:36:30] [info] Get Vaccine by filter redis - Time Binding: 6ms
+[2022-07-09 08:36:30] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 08:36:30 GMT+0700 (Indochina Time)
+[2022-07-09 08:36:31] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 08:36:31 GMT+0700 (Indochina Time)
+[2022-07-09 08:36:31] [info] Get Vaccine by filter - Time Binding: 1530ms
+[2022-07-09 09:02:37] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 09:02:37 GMT+0700 (Indochina Time)
+[2022-07-09 09:02:37] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 09:02:37 GMT+0700 (Indochina Time)
+[2022-07-09 09:02:37] [info] Get Vaccine by filter redis - Time Binding: 89ms
+[2022-07-09 09:02:37] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 09:02:37 GMT+0700 (Indochina Time)
+[2022-07-09 09:02:40] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 09:02:40 GMT+0700 (Indochina Time)
+[2022-07-09 09:02:40] [info] Get Vaccine by filter - Time Binding: 2338ms
+[2022-07-09 09:02:51] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 09:02:51 GMT+0700 (Indochina Time)
+[2022-07-09 09:02:51] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 09:02:51 GMT+0700 (Indochina Time)
+[2022-07-09 09:02:51] [info] Get Vaccine by filter redis - Time Binding: 137ms
+[2022-07-09 09:02:51] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 09:02:51 GMT+0700 (Indochina Time)
+[2022-07-09 09:02:52] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 09:02:52 GMT+0700 (Indochina Time)
+[2022-07-09 09:02:52] [info] Get Vaccine by filter - Time Binding: 1550ms
+[2022-07-09 09:06:23] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 09:06:23 GMT+0700 (Indochina Time)
+[2022-07-09 09:06:24] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 09:06:24 GMT+0700 (Indochina Time)
+[2022-07-09 09:06:24] [info] Get Vaccine by filter redis - Time Binding: 26ms
+[2022-07-09 09:06:24] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 09:06:24 GMT+0700 (Indochina Time)
+[2022-07-09 09:06:26] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 09:06:26 GMT+0700 (Indochina Time)
+[2022-07-09 09:06:26] [info] Get Vaccine by filter - Time Binding: 2274ms
+[2022-07-09 09:06:55] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 09:06:55 GMT+0700 (Indochina Time)
+[2022-07-09 09:06:56] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 09:06:56 GMT+0700 (Indochina Time)
+[2022-07-09 09:06:56] [info] Get Vaccine by filter redis - Time Binding: 414ms
+[2022-07-09 09:06:56] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 09:06:56 GMT+0700 (Indochina Time)
+[2022-07-09 09:06:58] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 09:06:58 GMT+0700 (Indochina Time)
+[2022-07-09 09:06:58] [info] Get Vaccine by filter - Time Binding: 2130ms
+[2022-07-09 09:07:30] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 09:07:30 GMT+0700 (Indochina Time)
+[2022-07-09 09:07:30] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 09:07:30 GMT+0700 (Indochina Time)
+[2022-07-09 09:07:30] [info] Get Vaccine by filter redis - Time Binding: 61ms
+[2022-07-09 09:07:30] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 09:07:30 GMT+0700 (Indochina Time)
+[2022-07-09 09:07:32] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 09:07:32 GMT+0700 (Indochina Time)
+[2022-07-09 09:07:32] [info] Get Vaccine by filter - Time Binding: 1532ms
+[2022-07-09 09:09:12] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 09:09:12 GMT+0700 (Indochina Time)
+[2022-07-09 09:09:12] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 09:09:12 GMT+0700 (Indochina Time)
+[2022-07-09 09:09:12] [info] Get Vaccine by filter redis - Time Binding: 20ms
+[2022-07-09 09:09:12] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 09:09:12 GMT+0700 (Indochina Time)
+[2022-07-09 09:09:14] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 09:09:14 GMT+0700 (Indochina Time)
+[2022-07-09 09:09:14] [info] Get Vaccine by filter - Time Binding: 2045ms
+[2022-07-09 09:09:53] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 09:09:53 GMT+0700 (Indochina Time)
+[2022-07-09 09:09:53] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 09:09:53 GMT+0700 (Indochina Time)
+[2022-07-09 09:09:53] [info] Get Vaccine by filter redis - Time Binding: 12ms
+[2022-07-09 09:09:53] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 09:09:53 GMT+0700 (Indochina Time)
+[2022-07-09 09:09:54] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 09:09:54 GMT+0700 (Indochina Time)
+[2022-07-09 09:09:54] [info] Get Vaccine by filter - Time Binding: 1570ms
+[2022-07-09 09:10:54] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 09:10:54 GMT+0700 (Indochina Time)
+[2022-07-09 09:10:54] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 09:10:54 GMT+0700 (Indochina Time)
+[2022-07-09 09:10:54] [info] Get Vaccine by filter redis - Time Binding: 8ms
+[2022-07-09 09:10:54] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 09:10:54 GMT+0700 (Indochina Time)
+[2022-07-09 09:10:56] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 09:10:56 GMT+0700 (Indochina Time)
+[2022-07-09 09:10:56] [info] Get Vaccine by filter - Time Binding: 2085ms
+[2022-07-09 09:12:16] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 09:12:16 GMT+0700 (Indochina Time)
+[2022-07-09 09:12:16] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 09:12:16 GMT+0700 (Indochina Time)
+[2022-07-09 09:12:16] [info] Get Vaccine by filter redis - Time Binding: 78ms
+[2022-07-09 09:12:16] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 09:12:16 GMT+0700 (Indochina Time)
+[2022-07-09 09:12:18] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 09:12:18 GMT+0700 (Indochina Time)
+[2022-07-09 09:12:18] [info] Get Vaccine by filter - Time Binding: 1556ms
+[2022-07-09 09:33:46] [info] Get Vaccine by filter redis - Start Time: Sat Jul 09 2022 09:33:46 GMT+0700 (Indochina Time)
+[2022-07-09 09:33:46] [info] Get Vaccine by filter redis - End Time: Sat Jul 09 2022 09:33:46 GMT+0700 (Indochina Time)
+[2022-07-09 09:33:46] [info] Get Vaccine by filter redis - Time Binding: 34ms
+[2022-07-09 09:33:46] [info] Get Vaccine by filter - Start Time: Sat Jul 09 2022 09:33:46 GMT+0700 (Indochina Time)
+[2022-07-09 09:33:48] [info] Get Vaccine by filter - End Time: Sat Jul 09 2022 09:33:48 GMT+0700 (Indochina Time)
+[2022-07-09 09:33:48] [info] Get Vaccine by filter - Time Binding: 1529ms
